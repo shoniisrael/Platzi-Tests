@@ -16,6 +16,8 @@
 |[Curso de C# con .Net Core](c_con_net.md)| 
 |[Curso de Frontend Developer](frontend_developer.md)| 
 |[Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)| 
+|[Curso de Programación Orientada a Objetos: POO](poo.md)| 
+|[Curso Profesional de Git y GitHub](git.md)| 
 
 
 <!---
