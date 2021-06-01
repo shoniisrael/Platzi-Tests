@@ -71,7 +71,7 @@ div > p
 ### ¿La accesibilidad es sólo una responsabilidad de los desarrolladores?
     Falso.
 ### Un pseudo-elemento se puede utilizar para:
-Dar estilo a partes específicas de un elemento.
+    Dar estilo a partes específicas de un elemento.
 ### Usando la metodología BEM, un ejemplo de Elemento sería:
     button
 ### Con el árbol de objetos DOM de HTML, JavaScript puede cambiar todos los elementos HTML de la página.

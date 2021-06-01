@@ -15,6 +15,7 @@
 |[Curso de Computación Básica](computacion_basica.md)| 
 |[Curso de C# con .Net Core](c_con_net.md)| 
 |[Curso de Frontend Developer](frontend_developer.md)| 
+|[Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)| 
 
 
 <!---
