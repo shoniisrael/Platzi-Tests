@@ -19,6 +19,9 @@
 |[Curso de Programación Orientada a Objetos: POO](poo.md)| 
 |[Curso Profesional de Git y GitHub](git.md)| 
 |[Fundamentos de Ingeniería de Software](fundamentos.md)| 
+|[Fundamentos de JavaScript 2018](javascript2018.md)| 
+|[Curso Gratis de Programación Básica](programacion_basica.md)| 
+
 
 
 <!---
