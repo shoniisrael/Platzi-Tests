@@ -21,6 +21,8 @@
 |[Fundamentos de Ingeniería de Software](fundamentos.md)| 
 |[Fundamentos de JavaScript 2018](javascript2018.md)| 
 |[Curso Gratis de Programación Básica](programacion_basica.md)| 
+|[Curso de Next.js](nextjs.md)| 
+|[Curso de Tailwind CSS](tailwind.md)| 
 
 
 
