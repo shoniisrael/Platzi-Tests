@@ -67,7 +67,7 @@ function declarar() { variable = 12; }
 ## 14. En programación, Frontend es:
     Quien programa la interacción con el usuario
 ## 15. Cuando quieres comenzar a dibujar en HTML ¿Qué etiqueta nos ayuda a crear un lienzo?
-    (Descartar esta opcion) head
+    canvas
 ## 16. Al ejecutar el siguiente código:
 ```
 var contador = 2;
@@ -80,7 +80,7 @@ while(contador)
 console.log(na + " Freddy ")
 ```
 ## ¿Qué se va a mostrar en consola? 
-   (Descartar esta opcion) nanana Freddy
+   nananana Freddy
 
 ## 17. Si tengo el siguiente código
 ```
@@ -94,7 +94,7 @@ declarar(); console.log(variable);
 ## 19. ¿Para qué se utiliza HTML?
     Para estructurar semanticamente el contenido de un sitio web
 ## 20. ¿Qué es el DOM?
-    (Descartar esta opcion) Document Object Model, contiene las funciones para acceder a archivos del sistema operativo
+    Document Object Model, es la forma en que internamente el navegador organiza todo el HTML dentro de una estructura de árbol 
 ## 21. ¿Para qué sirve la etiqueta <p>?
     Define un párrafo en HTML 
 ## 22. ¿Cuál es la estructura básica de un archivo de HTML5?
@@ -145,6 +145,9 @@ paki.ataque = paki.ataque * 2;
 ## 30. ¿Para qué usamos la función prompt?
     Para recibir datos del usuario
 
+## Extras
+1 - ¿Por qué debemos ubicar la etiqueta <script> justo antes de que se cierre el <body>?
+    Porque así nuestra página podrá mostrar algo antes de ejecutar el código
 
 ------
 
