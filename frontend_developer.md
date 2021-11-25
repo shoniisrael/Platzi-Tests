@@ -93,7 +93,8 @@ Incorrecto
 ### 7. La definición de "cascada" significa que:
     El orden de las reglas en CSS importa.
 ### 8. Las reglas de CSS que tienen menor especificidad (sin tener en cuenta el selector universal), son:
-    <div>
+    <div> (puede ser la opcion correcta)
+    elementos y pseudoelementos
 
 ### 9. #id h1::first-letter es más específico que p .sidemenu div:hover
     Verdadero
