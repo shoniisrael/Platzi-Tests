@@ -84,9 +84,9 @@ Verdadero
 Verdadero
 ### 3. ¿Para qué nos sirven los motores de renderizado?
 Para que mi sitio web se vea bien en varias medidas de pantalla
-    pendiente...
+    interpretar el lenguaje que se mostrara en un navegador
 ### 4.Un ejemplo de elemento vacío en HTML es:
-    pendiente...
+    <img>
 ### 5. El HTML semántico NO nos permite:
 Tener un código más claro y con significado
 REPASAR CLASE
