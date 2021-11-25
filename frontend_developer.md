@@ -83,19 +83,17 @@ Verdadero
 ### 2. CSS son hojas de estilo en cascada. Este enunciado es:
 Verdadero
 ### 3. ¿Para qué nos sirven los motores de renderizado?
-Para que mi sitio web se vea bien en varias medidas de pantalla
-    interpretar el lenguaje que se mostrara en un navegador
+interpretar el lenguaje que se mostrara en un navegador
 ### 4.Un ejemplo de elemento vacío en HTML es:
     <img>
 ### 5. El HTML semántico NO nos permite:
-Tener un código más claro y con significado
-REPASAR CLASE
+Determinar qué reglas de CSS deben aplicarse a las etiquetas de HTML
 ### 6. Con HTML semántico, usar una etiqueta <div> en lugar de una específica como <article> para escribir un artículo es:
 Incorrecto
 ### 7. La definición de "cascada" significa que:
 El orden de las reglas en CSS importa.
 ### 8. Las reglas de CSS que tienen menor especificidad (sin tener en cuenta el selector universal), son:
-!important
+<div>
 REPASAR CLASE
 ### 9. #id h1::first-letter es más específico que p .sidemenu div:hover
 Verdadero
@@ -107,9 +105,9 @@ Hay dos elementos bloque adyacentes.
 ### 12. La metodología que nos sugiere tener una sintaxis donde se pueda diferenciar el bloque de los elementos y de los modificadores es:
 BEM
 ### 13. :hover es:
-
 Una pseudoclase
-### 14. ¿Qué es ::before?
+
+    ### 14. ¿Qué es ::before?
 
 Un pseudoelemento
 ### 15. El selector que selecciona todos los elementos <span> donde el padre es un elemento <p> es:
