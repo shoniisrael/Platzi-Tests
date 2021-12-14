@@ -78,7 +78,97 @@ div > p
 Verdadero
 ### ¿Qué herramienta nos permite a los desarrolladores crear componentes de forma independiente y mostrarlos de manera interactiva en un entorno de desarrollo aislado?
     Storybook
+### 1. HTML es un lenguaje de marcado de hipertexto. Este enunciado es:
+    Verdadero
+### 2. CSS son hojas de estilo en cascada. Este enunciado es:
+    Verdadero
+### 3. ¿Para qué nos sirven los motores de renderizado?
+interpretar el lenguaje que se mostrara en un navegador
+### 4.Un ejemplo de elemento vacío en HTML es:
+    <img>
+### 5. El HTML semántico NO nos permite:
+    Determinar qué reglas de CSS deben aplicarse a las etiquetas de HTML
+### 6. Con HTML semántico, usar una etiqueta <div> en lugar de una específica como <article> para escribir un artículo es:
+Incorrecto
+### 7. La definición de "cascada" significa que:
+    El orden de las reglas en CSS importa.
+### 8. Las reglas de CSS que tienen menor especificidad (sin tener en cuenta el selector universal), son:
+    <div> (puede ser la opcion correcta)
+    elementos y pseudoelementos
 
+### 9. #id h1::first-letter es más específico que p .sidemenu div:hover
+    Verdadero
+### 10. ¿Cuál de los siguientes NO es un tipo de selector combinador?
+    a[href="…"]
+
+### 11. El colapso de márgenes sucede cuando:
+    Hay dos elementos bloque adyacentes.
+### 12. La metodología que nos sugiere tener una sintaxis donde se pueda diferenciar el bloque de los elementos y de los modificadores es:
+    BEM
+### 13. :hover es:
+    Una pseudoclase
+
+### 14. ¿Qué es ::before?
+    Un pseudoelemento
+### 15. El selector que selecciona todos los elementos <span> donde el padre es un elemento <p> es:
+    p > span
+
+### 16. Si debes de colocar una barra de navegación con HTML semántico, ¿cuál etiqueta usarías?
+    <nav>
 ------
+### Ingreso de Curso nuevo de front end
+.
+### 1. Usamos display: grid; y place-items: center; en el elemento contenedor para:
+
+    Centrar los elementos hijos tanto vertical como horizontalmente.
+
+### 2.justify-content es una propiedad de los elementos:
+
+    Contenedores
+
+### 3.@media (max-width: 640px) nos indica que el código dentro de él será para:
+    Pantallas desde 0px hasta 640px
+
+### 4.:root nos permite definir variables y usarlas mediante la función var():
+
+    Verdadero
+
+### 5..email-image img, selecciona:
+    Todas las imágenes que tengan como clase .email-image
+    REPASAR CLASE
+### 6. .product-info div p:nth-child(1) se lee como:
+    El primer hijo de tipo p que está dentro del div que tiene como clase .product-info
+    REPASAR CLASE
+### 7.margin: 24px 0 0; es lo mismo que decir:
+
+    margin-top: 24px;
+    margin-right: 0;
+    margin-bottom: 0; 
+    margin-left: 24px;
+    REPASAR CLASE
+### 8.La propiedad flex-direction es por defecto:
+    Row
+
+### 9.Padding es el espacio:
+
+    Entre el contenido y el borde.
+
+### 10. :nth-child() es:
+    Una pseudoclase
+
+### 11. font-weight es la propiedad que nos da el:
+    Grosor del texto
+
+### 12.La propiedad que usamos para crear únicamente columnas en una grid es:
+
+    grid-template-columns
+
+### 13.text-decoration: none; la usamos para:
+
+    Remover la línea de la parte inferior de la etiqueta <a>
+
+### 14.La etiqueta <link> se debe colocar dentro de la etiqueta:
+
+    <head>
 
 Este proyecto sigue la especificación de [todos los contribuyentes](https://github.com/all-contributors/all-contributors) . ¡Contribuciones de cualquier tipo son bienvenidas!
