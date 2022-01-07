@@ -1,47 +1,47 @@
 ### 1.¿Qué es el sistema binario?
-Sistema de numeración representado por ceros y unos.
+    Sistema de numeración representado por ceros y unos.
 
 ### 2.¿Cuánto es la suma de 1101 + 110?
-10011
+    10011
 ### 3.¿Cuánto es 1101-1101?
-00
+    00
 ### 4.¿Cuánto es 1101*1101?
-10101000
-REPASAR CLASE
+    10101000
+    REPASAR CLASE
 ### 5.¿Cuál es la negación de V?
-F
+    F
 ### 6.El número 58 en binario es:
-111010
+    111010
 ### 7.El valor "mi nombre es" es de tipo
-Cadena de texto
+    Cadena de texto
 ### 8.¿Cuál es el resultado de (5 - 1 * 2) + (8 - 4 / 2) + 3?
-12
+    12
 ### 9.¿Qué es una excepción?
-Es un evento anormal que ocurre durante la ejecución
+    Es un evento anormal que ocurre durante la ejecución
 ### 10.El "finally" sucede a la mitad de una ejecución:
-Falso
+    Falso
 ### 11.Un ciclo es una estructura de control
-Falso
-REPASAR CLASE
+    Falso
+    REPASAR CLASE
 ### 12.¿Qué es una función?
-Bloque de código que realiza una actividad específica
+    Bloque de código que realiza una actividad específica
 ### 13.¿Para qué sirven las funciones?
-Modularizar, optimizar, organizar y encapsular
+    Modularizar, optimizar, organizar y encapsular
 ### 14.Los parámetros y los argumentos son lo mismo
-Falso
+    Falso
 ### 15.Las funciones deben hacer múltiples tareas al mismo tiempo
-Falso
+    Falso
 ### 16.Todos los lenguajes de programación tienen un ; al finalizar cada línea de código.
-Falso
+    Falso
 ### 17.¿Cuál es la diferencia de una función y un método en Java?
-Ninguna, son iguales
-### REPASAR CLASE
+    Ninguna, son iguales
+    REPASAR CLASE
 ### 18.Un diagrama de flujo permite graficar un algoritmo.
-Verdadero
+    Verdadero
 ### 19.Los diagramas de flujo hacen parte de la documentación de un proyecto.
-Verdadero
+    Verdadero
 ### 20.¿Cuántos bits tiene un byte?
-8
+    8
 ### 21.¿Cuál es el signo con cual se define una variable en PHP?
     $
 ### 22.Los principales tipos de variables en Javascript son:
