@@ -1,6 +1,6 @@
 {
   "projectName": "Platzi-Tests",
-  "projectOwner": "shoniisra",
+  "projectOwner": "shoniisrael",
   "repoType": "github",
   "repoHost": "https://github.com",
   "files": [
@@ -10,6 +10,17 @@
   "commit": true,
   "commitConvention": "none",
   "contributors": [
+    {
+      "login": "shoniisrael",
+      "name": "shoniisrael",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4",
+      "profile": "https://github.com/shoniisrael",
+      "contributions": [
+        "ideas",
+        "code",
+        "content"
+      ]
+    },
     {
       "login": "cryger",
       "name": "cryger",
