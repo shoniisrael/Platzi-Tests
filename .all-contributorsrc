@@ -9,6 +9,16 @@
   "imageSize": 100,
   "commit": true,
   "commitConvention": "none",
-  "contributors": [],
+  "contributors": [
+    {
+      "login": "cryger",
+      "name": "cryger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34179646?v=4",
+      "profile": "https://github.com/cryger",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
   "contributorsPerLine": 7
 }
