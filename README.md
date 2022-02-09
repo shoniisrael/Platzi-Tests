@@ -1,6 +1,6 @@
 # Platzi-tests
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
@@ -48,6 +48,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
   </tr>
 </table>
 
