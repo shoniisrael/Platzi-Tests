@@ -4,5 +4,8 @@
   "description": "respuestas de los examenes de platzi",
   "main": "index.js",
   "author": "shoniisra",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "all-contributors-cli": "^6.20.0"
+  }
 }
