@@ -1,6 +1,6 @@
 # Curso Profesional de Git y GitHub
 
-## Los cambios a un archivo que están en “staging” están en:
+## 1. Los cambios a un archivo que están en “staging” están en:
 
     Un área temporal en memoria antes de llegar al repositorio.
 
@@ -92,7 +92,6 @@
     (Descartar esta opción )Cuando quiero volver la rama a un punto del pasado y eso volverlo el HEAD.
 
 ## 26. ¿Las llaves públicas son?
-
     Fáciles de compartir y sus mensajes imposibles de descifrar.
 
 ## 27. ¿Para qué sirve GitHub Pages?
@@ -105,7 +104,21 @@
     Crear un Fork del proyecto y enviar Pull Request al proyecto original.
 ## 30. ¿Qué guarda Git?
     Los cambios de los archivos de un proyecto. 
-
+    
+## 31. Para transmitir cambios seguros entre tu repositorio local y GitHub, ¿qué se recomienda?
+    Usar una llave SSH.
+    
+## 32. En un commit, los mensajes del commit son:
+    Importantes y obligatorios.
+    
+## 33. ¿El HEAD en una rama es?
+    El apuntador al estado actual del repositorio basado en la rama en la que estoy trabajando.
+    
+## 34. Se crean dos archivos cuando creas una llave pública y privada para SSH, ¿cuál es la extensión de la llave privada?
+    Ninguna extensión
+ 
+## 35. ¿Qué puedes hacer con gitk?
+    Ver en una interfaz visual las ramas y el log de tu repositorio.
 
 
 
