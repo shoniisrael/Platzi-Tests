@@ -7,6 +7,7 @@
 ## 2. ¿Puedo crear ramas en GitHub que no tenga en mi repositorio local?
 
     Sí, tú decides si traer esas ramas a tu repositorio local.
+    
 ## 3. En un commit, los mensajes del commit son:
 
     Importantes y obligatorios.
@@ -21,6 +22,7 @@
 
 ## 6. ¿Puedes conectar tu repositorio local con más de un repositorio remoto?
     Verdadero
+    
 ## 7. Es mejor aprender a manejar Git con la terminal antes de hacerlo con herramientas visuales como Gitk porque:
 
     Debemos aprender Git con sus comandos de la terminal para resolver problemas o conflictos más avanzados. Gitk funciona bien, pero no nos permite realizar operaciones tan complejas.
@@ -40,24 +42,27 @@
 ## 11. En un repositorio público en GitHub, ¿qué puede hacer los colaboradores?
 
     Hacer cambios al repositorio, hacer push/pull, crear ramas, etc.
+    
 ## 12. ¿Qué es un branch o una rama en Git?
     Un repositorio aparte del master donde puedes trabajar en paralelo.
 
 ## 13. Si usas:
 
     git config --global alias.platzi "shortlog"
-##  ¿Cómo invocar ese comando?
+##  Si usas: git config --global alias.platzi "shortlog" ¿Cómo invocar ese comando?
 
     git platzi
+    
 ## 14. ¿Con amend puedo?
 
     Corregir los mensajes de un commit que hice mal sin que quede en la historia del repositorio.
 
 ## 15. ¿Cómo instalas Gitk?
     (Descartar esta opción ) Podemos instalarlo desde la página de Git.
-## 16. ¿Estás en la rama master y quieres mandar los últimos cambios que guardaste con git stash a la rama  retomando-los-cambios (la rama no ha sido creada aún). Cuál de las siguientes soluciones es incorrecta?
-
+    
+## 16. Estás en la rama master y quieres mandar los últimos cambios que guardaste con git stash a la rama retomando-los-cambios (la rama no ha sido creada aún). ¿Cuál de las siguientes soluciones es incorrecta?
     git stash apply retomando-los-cambios
+
 ## 17. Cuando hago un fork de un proyecto en GitHub, ¿lo que logro es?
 
     Copiar un repositorio público a mis repositorios en GitHub, con todas sus ramas e historia anterior.
@@ -71,7 +76,7 @@
 
 ## 20. Cuando usas git stash, los cambios que “guardas” temporalmente se guardan en:
 
-    (Descartar esta opción ) Disco duro, en un nuevo commit.
+    Memoria temporal, volviendo al estado del último commit.
 
 ## 21. ¿Qué crean los tags en Git?
 
@@ -89,36 +94,47 @@
 
 ## 25. ¿Cuándo deberías usar cherry-pick?
 
-    (Descartar esta opción )Cuando quiero volver la rama a un punto del pasado y eso volverlo el HEAD.
+    Deshacer cambios.
 
 ## 26. ¿Las llaves públicas son?
     Fáciles de compartir y sus mensajes imposibles de descifrar.
 
 ## 27. ¿Para qué sirve GitHub Pages?
     Es un servicio de GitHub que nos permite publicar nuestros repositorios en internet (por ejemplo, nombre.   github.io o nombre.github.io/proyecto).
+    
 ## 28. ¿Cómo llaman GitHub y GitLab a los "merges" (propuestas de cambios desde otra rama o repositorio)?
     GitHub los llama Pull Request y GitLab Merge Request.
 
 ## 29. El Jefe Freddy despidió a Anita y no piensa volver a contratarla. ¿Qué debe hacer Anita para seguir  haciendo contribuciones a los proyectos públicos de Platzi?
 
     Crear un Fork del proyecto y enviar Pull Request al proyecto original.
+    
 ## 30. ¿Qué guarda Git?
     Los cambios de los archivos de un proyecto. 
     
 ## 31. Para transmitir cambios seguros entre tu repositorio local y GitHub, ¿qué se recomienda?
     Usar una llave SSH.
     
-## 32. En un commit, los mensajes del commit son:
-    Importantes y obligatorios.
-    
-## 33. ¿El HEAD en una rama es?
+## 32. ¿El HEAD en una rama es?
     El apuntador al estado actual del repositorio basado en la rama en la que estoy trabajando.
     
-## 34. Se crean dos archivos cuando creas una llave pública y privada para SSH, ¿cuál es la extensión de la llave privada?
+## 33. Se crean dos archivos cuando creas una llave pública y privada para SSH, ¿cuál es la extensión de la llave privada?
     Ninguna extensión
  
-## 35. ¿Qué puedes hacer con gitk?
+## 34. ¿Qué puedes hacer con gitk?
     Ver en una interfaz visual las ramas y el log de tu repositorio.
+    
+## 35. Un pull request es:
+    Un cambio sugerido a un repositorio que el dueño del repositorio puede autorizar y hacer merge a la rama que elija.
+  
+## 36. Si ya hiciste el desafío de “Hazme un pull request,” ¿dentro de cuál etiqueta tenías que agregar el cambio?
+    <divid="post">
+       
+## 37. Por defecto, GitHub usa la rama main como la rama principal. ¿Podemos cambiar la rama principal?
+    Verdadero
+    
+    
+    
 
 
 
