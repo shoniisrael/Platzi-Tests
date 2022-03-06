@@ -3,10 +3,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
 <br><br>
 
