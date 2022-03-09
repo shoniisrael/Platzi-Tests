@@ -24,6 +24,7 @@
 |[Curso de Tailwind CSS](tailwind.md)| 
 |[Curso de Introducción a Java SE](java_se.md)| 
 |[Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)|
+|[Curso de Inglés Intermedio B1 Comparativos Paralelos y Expresiones en el Pasado y Futuro](ingles_b1_comparativos_paralelos.md)|
 |[Historia de los Cypherpunks](cypherpunks.md)|  
 
 
