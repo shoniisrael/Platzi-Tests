@@ -25,7 +25,8 @@
 |[Curso de Introducción a Java SE](java_se.md)| 
 |[Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)|
 |[Historia de los Cypherpunks](cypherpunks.md)|
-|[Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md)|    
+|[Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md)| 
+|[Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)|    
 
 
 <!---
