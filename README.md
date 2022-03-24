@@ -13,7 +13,8 @@
 |[Curso Práctico de React JS](react.md)| 
 |[Curso de Computación Básica](computacion_basica.md)| 
 |[Curso de C# con .Net Core](c_con_net.md)| 
-|[Curso de Frontend Developer](frontend_developer.md)| 
+|[Curso de Frontend Developer 2019](frontend_developer.md)| 
+|[Curso de Frontend Developer ](frontend_developer2.md)| 
 |[Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)| 
 |[Curso de Programación Orientada a Objetos: POO](poo.md)| 
 |[Curso Profesional de Git y GitHub](git.md)| 
