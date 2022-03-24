@@ -1,10 +1,6 @@
 # Platzi-tests
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -27,7 +23,10 @@
 |[Curso de Next.js](nextjs.md)| 
 |[Curso de Tailwind CSS](tailwind.md)| 
 |[Curso de Introducción a Java SE](java_se.md)| 
-
+|[Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)|
+|[Historia de los Cypherpunks](cypherpunks.md)|
+|[Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md)| 
+|[Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)|    
 
 
 <!---
@@ -46,10 +45,12 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- markdownlint-disable -->
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4" width="100px;" alt=""/><br /><sub><b>Shoni Israel</b></sub></a><br /><a href="#business" title="Main autor">💼</a> <a href="" title="Code">💻</a></td>
-  <td align="center"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt=""/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
+    <td align="center"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a></td>
+    <td align="center"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a></td>
   </tr>
 </table>
 

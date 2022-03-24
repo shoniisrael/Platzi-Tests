@@ -47,6 +47,24 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "JuanmaSandri",
+      "name": "Juan Manuel Sandri",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99428338?v=4",
+      "profile": "https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "cesantaniello",
+      "name": "Carlos Santaniello",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42319088?v=4",
+      "profile": "https://github.com/cesantaniello",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7
