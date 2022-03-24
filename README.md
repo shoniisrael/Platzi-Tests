@@ -6,33 +6,78 @@
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
 <br><br>
 
-## Tabla de Contenidos
+LISTA DE CURSOS
+- ### DESARROLLO E INGENIERÍA 
+    **Fundamentos de programación**
+    - [Curso Gratis de Programación Básica](programacion_basica.md)
+    - [Curso de Computación Básica](computacion_basica.md) 
+    - [Curso de Programación Orientada a Objetos: POO](poo.md)
+    - [Curso Profesional de Git y GitHub](git.md)
+    - [Fundamentos de Ingeniería de Software](fundamentos.md)
 
-|Curso|
-|-----------|
-|[Curso Práctico de React JS](react.md)| 
-|[Curso de Computación Básica](computacion_basica.md)| 
-|[Curso de C# con .Net Core](c_con_net.md)| 
-|[Curso de Frontend Developer 2019](frontend_developer.md)| 
-|[Curso de Frontend Developer ](frontend_developer2.md)| 
-|[Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)| 
-|[Curso de Programación Orientada a Objetos: POO](poo.md)| 
-|[Curso Profesional de Git y GitHub](git.md)| 
-|[Fundamentos de Ingeniería de Software](fundamentos.md)| 
-|[Fundamentos de JavaScript 2018](javascript2018.md)| 
-|[Curso Gratis de Programación Básica](programacion_basica.md)| 
-|[Curso de Next.js](nextjs.md)| 
-|[Curso de Tailwind CSS](tailwind.md)| 
-|[Curso de Introducción a Java SE](java_se.md)| 
-|[Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)|
-|[Historia de los Cypherpunks](cypherpunks.md)|
-|[Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md)| 
-|[Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)|    
+    **FrontEnd**
+    - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
+    - [Curso de Frontend Developer 2019](frontend_developer.md) 
+    - [Curso de Frontend Developer ](frontend_developer2.md) 
+    - [Fundamentos de JavaScript 2018](javascript2018.md)
+    - [Curso de Next.js](nextjs.md)
+    - [Curso de Tailwind CSS](tailwind.md)
+
+    **BackEnd**
+    - [Curso de C# con .Net Core](c_con_net.md) 
+    - [Curso de Introducción a Java SE](java_se.md)
+
+    **Mobile**
+    
+    **Bases de Datos**
+    
+    **Matemáticas**
+    
+    **Cloud**
+    
+    **Seguridad**
+    
+    **Data**
+    
+    **Machine Learning**
+    
+    **Criptomonedas**
+    - [Historia de los Cypherpunks](cypherpunks.md)
+
+    **Videojuegos**
+    - [Curso Práctico de React JS](react.md) 
+
+- ### DISEÑO Y UX 
+
+- ### MARKETING 
+
+- ### NEGOCIOS Y EMPRENDIMIENTO 
+    - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
+
+- ### CONTENIDO DIGITAL
+
+- ### HABILIDADES BLANDAS
+    - [Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md) 
+
+- ### STARTUPS
+
+- ### INGLES
+    - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
 
 
-<!---
-end List
--->
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 &nbsp;
