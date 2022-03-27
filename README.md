@@ -43,6 +43,7 @@ LISTA DE CURSOS
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
+    - [Curso de Introducción a Finanzas Descentralizadas por Lemon](intro_defi_lemon.md)
 
     **Videojuegos**
     - [Curso Práctico de React JS](react.md) 
