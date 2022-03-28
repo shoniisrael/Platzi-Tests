@@ -43,6 +43,7 @@ LISTA DE CURSOS
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
+    - [Curso de Introducción a Finanzas Descentralizadas por Lemon](intro_defi_lemon.md)
 
     **Videojuegos**
     - [Curso Práctico de React JS](react.md) 
@@ -63,6 +64,7 @@ LISTA DE CURSOS
 
 - ### INGLES
     - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
+    - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
 
 
 
