@@ -34,10 +34,12 @@ LISTA DE CURSOS
     **Matemáticas**
     
     **Cloud**
+    - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
     
     **Seguridad**
     
     **Data**
+    - [Funcamentos de web scraping](Fundamentos_Web_Scraping_Python_y_Xpath.md)
     
     **Machine Learning**
     
