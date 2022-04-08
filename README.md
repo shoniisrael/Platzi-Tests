@@ -34,6 +34,7 @@ LISTA DE CURSOS
     
     
     **Matemáticas**
+    - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
     
 
     **Cloud**
