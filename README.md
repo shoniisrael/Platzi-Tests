@@ -14,6 +14,9 @@ LISTA DE CURSOS
     - [Curso de Programación Orientada a Objetos: POO](poo.md)
     - [Curso Profesional de Git y GitHub](git.md)
     - [Fundamentos de Ingeniería de Software](fundamentos.md)
+    - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
+    - [API rest Course](api_rest_course.md)
+    
 
     **FrontEnd**
     - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
@@ -42,13 +45,14 @@ LISTA DE CURSOS
     
 
     **Seguridad**
-    - [Fundamentos de web scraping](Fundamentos_Web_Scraping_Python_y_Xpath.md)
+    - [Fundamentos de web scraping](fundamentos_web_scraping_python_y_xpath.md)
     
 
     **Machine Learning y Data Science**
     - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
     - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
     - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
+    - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
@@ -75,6 +79,8 @@ LISTA DE CURSOS
     - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
     - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
     - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
+    - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
+    - [Curso de Ingles A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)
 
 
 

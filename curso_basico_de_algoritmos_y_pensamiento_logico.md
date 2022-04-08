@@ -1,3 +1,5 @@
+# Curso Básico de Algoritmos y Pensamiento Lógico
+
 ### 1.¿Qué es el sistema binario?
     Sistema de numeración representado por ceros y unos.
 
