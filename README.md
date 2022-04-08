@@ -35,14 +35,17 @@ LISTA DE CURSOS
     
     **Matemáticas**
     
+
     **Cloud**
     
+
     **Seguridad**
     
-    **Data**
-    
-    **Machine Learning**
+
+    **Machine Learning y Data Science**
     - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
+    - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
+    
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)

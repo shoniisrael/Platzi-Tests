@@ -1,3 +1,4 @@
+# Curso de Análisis de Negocios para Ciencia de Datos
 1.
 Solo podemos analizar información numérica, ya que es la única que nos permite hacer operaciones y tener métricas. Esta afirmación es:
 
