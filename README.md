@@ -42,7 +42,8 @@ LISTA DE CURSOS
     
 
     **Seguridad**
-    - [Funcamentos de web scraping](Fundamentos_Web_Scraping_Python_y_Xpath.md)
+    - [Fundamentos de web scraping](Fundamentos_Web_Scraping_Python_y_Xpath.md)
+    
     
     **Machine Learning y Data Science**
     - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
