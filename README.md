@@ -30,18 +30,22 @@ LISTA DE CURSOS
     **Mobile**
     
     **Bases de Datos**
+    - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
+    
     
     **Matemáticas**
     
+
     **Cloud**
     - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
     
+
     **Seguridad**
-    
-    **Data**
     - [Funcamentos de web scraping](Fundamentos_Web_Scraping_Python_y_Xpath.md)
     
-    **Machine Learning**
+    **Machine Learning y Data Science**
+    - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
+    - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
