@@ -40,6 +40,7 @@ LISTA DE CURSOS
     **Data**
     
     **Machine Learning**
+    - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
