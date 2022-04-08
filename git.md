@@ -58,7 +58,7 @@
     Corregir los mensajes de un commit que hice mal sin que quede en la historia del repositorio.
 
 ## 15. ¿Cómo instalas Gitk?
-    (Descartar esta opción ) Podemos instalarlo desde la página de Git.
+    En Windows y Mac podemos instalarlo desde gitk.com/download. En Linux debemos buscarlo con el instalador de paquetes de nuestra distribución.
     
 ## 16. Estás en la rama master y quieres mandar los últimos cambios que guardaste con git stash a la rama retomando-los-cambios (la rama no ha sido creada aún). ¿Cuál de las siguientes soluciones es incorrecta?
     git stash apply retomando-los-cambios
