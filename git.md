@@ -136,8 +136,12 @@
 ## 38. Para que dos personas trabajen en paralelo sobre el mismo archivo se recomienda:
     Una rama independiente por cada persona y sus cambios que luego con verificación se hace merge a master.
     
+## 39. Cuando hay un conflicto entre archivos lo mejor es:
+    Analizar los conflictos tal como los reportó Git y elegir los cambios finales, luego commit.
     
     
+    
+
 
 
 
