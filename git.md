@@ -132,6 +132,9 @@
        
 ## 37. Por defecto, GitHub usa la rama main como la rama principal. ¿Podemos cambiar la rama principal?
     Verdadero
+       
+## 38. Para que dos personas trabajen en paralelo sobre el mismo archivo se recomienda:
+    Una rama independiente por cada persona y sus cambios que luego con verificación se hace merge a master.
     
     
     
