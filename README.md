@@ -72,6 +72,7 @@ LISTA DE CURSOS
 
 - ### HABILIDADES BLANDAS
     - [Curso para Triunfar en Entrevistas de Trabajo](entrevista_trabajo.md) 
+    - [Curso para Trabajar como Freelance](freelancer.md) 
 
 - ### STARTUPS
 
