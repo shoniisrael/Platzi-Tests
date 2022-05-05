@@ -61,6 +61,15 @@ Es el software que permite al sistema operativo     interpretar las señales del
     Cables submarinos
 ## ¿Qué sucede cuando borras un archivo?
     Se elimina el índice de la cabecera del sistema de archivos
+## ¿Qué es la CPU?
+    La unidad central de procesamiento
+## El número 27 representado en binario es
+    11011
+## El router asigna ips de forma automática usando el protocolo
+    DHCP
+## Si compras una conexión de 100Mbps en teoria cuál es la máxima velocidad de descarga:
+    12.5MB/s
+    
 
 
 
