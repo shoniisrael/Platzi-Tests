@@ -11,17 +11,19 @@ LISTA DE CURSOS
     **Fundamentos de programación**
     - [Curso Gratis de Programación Básica](programacion_basica.md)
     - [Curso de Computación Básica](computacion_basica.md) 
+    - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md) 
     - [Curso de Programación Orientada a Objetos: POO](poo.md)
     - [Curso Profesional de Git y GitHub](git.md)
     - [Fundamentos de Ingeniería de Software](fundamentos.md)
     - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
     - [API rest Course](api_rest_course.md)
     
-
     **FrontEnd**
+    - [Curso Definitivo de HTML y CSS](curso_definitivo_de_html_y_css.md)
     - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
     - [Curso de Frontend Developer 2019](frontend_developer.md) 
     - [Curso de Frontend Developer ](frontend_developer2.md) 
+    - [Curso Practico de Frontend Developer ](practico_frontend_developer.md) 
     - [Fundamentos de JavaScript 2018](javascript2018.md)
     - [Curso de Next.js](nextjs.md)
     - [Curso de Tailwind CSS](tailwind.md)
@@ -35,19 +37,15 @@ LISTA DE CURSOS
     **Bases de Datos**
     - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
     
-    
     **Matemáticas**
     - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
     
-
     **Cloud**
     - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
     
-
     **Seguridad**
     - [Fundamentos de web scraping](fundamentos_web_scraping_python_y_xpath.md)
     
-
     **Machine Learning y Data Science**
     - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
     - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
@@ -67,6 +65,7 @@ LISTA DE CURSOS
 
 - ### NEGOCIOS Y EMPRENDIMIENTO 
     - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
+    - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
 
 - ### CONTENIDO DIGITAL
 
