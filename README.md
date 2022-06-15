@@ -66,6 +66,7 @@ LISTA DE CURSOS
 - ### DISEÑO Y UX 
 
 - ### MARKETING 
+    - [Curso Gratis de Marca Personal](marca_personal.md)
 
 - ### NEGOCIOS Y EMPRENDIMIENTO 
     - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
