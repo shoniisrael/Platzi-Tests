@@ -20,6 +20,7 @@ LISTA DE CURSOS
     - [API rest Course](api_rest_course.md)
     
     **FrontEnd**
+    - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_intro_web.md)    
     - [Curso Definitivo de HTML y CSS](curso_definitivo_de_html_y_css.md)
     - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
     - [Curso de Prework: Configuración de Entorno de Desarrollo en macOS](prework_mac.md)
@@ -89,6 +90,7 @@ LISTA DE CURSOS
     - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)    
     - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)    
     -  [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
+    - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
     - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
     - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
     - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
