@@ -60,6 +60,7 @@ LISTA DE CURSOS
     
     **Criptomonedas**
     - [Historia de los Cypherpunks](cypherpunks.md)
+    - [Audiocurso Introducción a las Startups Blockchain](startups_blockchain.md)
     - [Curso de Introducción a Finanzas Descentralizadas por Lemon](intro_defi_lemon.md)
     -  [Curso de introducción a Solidity](solidity.md)
     -  [Curso de Introducción a Solana](solana.md)
@@ -89,13 +90,14 @@ LISTA DE CURSOS
     - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
     - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)    
     - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)    
+    - [Taller de Inglés Básico A2: Describiendo mi Casa](taller_ingles_a2_casa.md)
     -  [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
     - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
+    - [Curso de Inglés Básico: Pronunciación](ingles_basico_pronunciacion.md)
     - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
     - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
     - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
     - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
-    - [Taller de Inglés Básico B2: Describiendo mi Casa](taller_ingles_a2_casa.md)
     - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
 
 
