@@ -94,7 +94,7 @@
 
 ## 25. ¿Cuándo deberías usar cherry-pick?
 
-    Deshacer cambios.
+    Cuando quiero los cambios de un commit pasado sin dañar la historia de la rama.
 
 ## 26. ¿Las llaves públicas son?
     Fáciles de compartir y sus mensajes imposibles de descifrar.
