@@ -62,8 +62,8 @@ LISTA DE CURSOS
     - [Historia de los Cypherpunks](cypherpunks.md)
     - [Audiocurso Introducción a las Startups Blockchain](startups_blockchain.md)
     - [Curso de Introducción a Finanzas Descentralizadas por Lemon](intro_defi_lemon.md)
-    -  [Curso de introducción a Solidity](solidity.md)
-    -  [Curso de Introducción a Solana](solana.md)
+    - [Curso de introducción a Solidity](solidity.md)
+    - [Curso de Introducción a Solana](solana.md)
 
     **Videojuegos**
     - [Curso Práctico de React JS](react.md) 
@@ -89,7 +89,8 @@ LISTA DE CURSOS
 - ### INGLES
     - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
     - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)    
-    - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)    
+    - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)
+    - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](taller_ingles_a1_familia.md)    
     - [Taller de Inglés Básico A2: Describiendo mi Casa](taller_ingles_a2_casa.md)
     -  [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
     - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
