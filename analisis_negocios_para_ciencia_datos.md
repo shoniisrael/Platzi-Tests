@@ -12,9 +12,8 @@ Todas las respuestas son correctas.
 3.
 Tu empresa quiere convertirse en data-driven, ¿cuál de los siguientes pasos se debe llevar a cabo primero?
 
-ESTA NO ES = Pensar en la información relevante.
+Medir todo.
 
-REPASAR CLASE
 4.
 ¿Cuál es una de las particularidades y usos más importantes del machine learning?
 
