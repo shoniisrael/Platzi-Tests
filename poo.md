@@ -15,7 +15,7 @@
 
 ## ¿Cuál es el la verdadera ventaja de usar polimorfismo?
 
-    (Descartar Esta opcion) Tener código más limpio
+    Poder añadir o cambiar el comportamiento de un modelo
 
 ## Si entre clases tengo muchos atributos en común que son redundantes lo mejor es aplicar:
 
