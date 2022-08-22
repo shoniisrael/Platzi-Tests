@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -151,6 +151,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/J0SANT"><img src="https://avatars.githubusercontent.com/u/109848058?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JOSE SALINAS</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJ0SANT" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/IngAamira"><img src="https://avatars.githubusercontent.com/u/67479844?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IngAamira</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AIngAamira" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://github.com/eloyortiz"><img src="https://avatars.githubusercontent.com/u/2855364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eloy Ortiz</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3Aeloyortiz" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://linktr.ee/akrista"><img src="https://avatars.githubusercontent.com/u/23145794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Thomas - Akrista</b></sub></a><br /><a href="#content-Akrista" title="Content">🖋</a></td>
   </tr>
 </table>
 
