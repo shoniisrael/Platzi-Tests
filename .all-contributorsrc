@@ -97,6 +97,15 @@
         "content",
         "review"
       ]
+    },
+    {
+      "login": "J0SANT",
+      "name": "JOSE SALINAS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109848058?v=4",
+      "profile": "https://github.com/J0SANT",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
