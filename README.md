@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -148,6 +148,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://www.linkedin.com/in/jotajota96/"><img src="https://avatars.githubusercontent.com/u/42627463?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Alvarez</b></sub></a><br /><a href="#content-JotaJota96" title="Content">🖋</a> <a href="#data-JotaJota96" title="Data">🔣</a></td>
     <td align="center"><a href="https://allmylinks.com/juandieruiz"><img src="https://avatars.githubusercontent.com/u/77864382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Diego Gómez</b></sub></a><br /><a href="#content-Juandieruiz" title="Content">🖋</a> <a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJuandieruiz" title="Reviewed Pull Requests">👀</a></td>
+    <td align="center"><a href="https://github.com/J0SANT"><img src="https://avatars.githubusercontent.com/u/109848058?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JOSE SALINAS</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJ0SANT" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
