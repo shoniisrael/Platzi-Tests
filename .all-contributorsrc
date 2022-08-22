@@ -124,6 +124,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "Akrista",
+      "name": "Jorge Thomas - Akrista",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23145794?v=4",
+      "profile": "https://linktr.ee/akrista",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
