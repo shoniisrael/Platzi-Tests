@@ -86,6 +86,16 @@
         "content",
         "data"
       ]
+    },
+    {
+      "login": "Juandieruiz",
+      "name": "Juan Diego Gómez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77864382?v=4",
+      "profile": "https://allmylinks.com/juandieruiz",
+      "contributions": [
+        "content",
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
