@@ -63,7 +63,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/42319088?v=4",
       "profile": "https://github.com/cesantaniello",
       "contributions": [
-        "content"
+        "content",
+        "data"
       ]
     },
     {
@@ -76,5 +77,6 @@
       ]
     }
   ],
-  "contributorsPerLine": 7
+  "contributorsPerLine": 7,
+  "skipCi": true
 }
