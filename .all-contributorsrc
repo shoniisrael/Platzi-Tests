@@ -76,6 +76,16 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "JotaJota96",
+      "name": "Juan Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42627463?v=4",
+      "profile": "https://www.linkedin.com/in/jotajota96/",
+      "contributions": [
+        "content",
+        "data"
+      ]
     }
   ],
   "contributorsPerLine": 7,
