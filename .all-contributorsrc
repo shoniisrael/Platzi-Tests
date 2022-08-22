@@ -115,6 +115,15 @@
       "contributions": [
         "review"
       ]
+    },
+    {
+      "login": "eloyortiz",
+      "name": "Eloy Ortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2855364?v=4",
+      "profile": "https://github.com/eloyortiz",
+      "contributions": [
+        "review"
+      ]
     }
   ],
   "contributorsPerLine": 7,
