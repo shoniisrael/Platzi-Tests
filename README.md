@@ -25,20 +25,21 @@ LISTA DE CURSOS
 
   **FrontEnd**
 
-  - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_intro_web.md)
-  - [Curso Definitivo de HTML y CSS](curso_definitivo_de_html_y_css.md)
-  - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
-  - [Curso de Prework: Configuración de Entorno de Desarrollo en macOS](prework_mac.md)
-  - [Curso de Frontend Developer 2019](frontend_developer.md)
-  - [Curso de Frontend Developer ](frontend_developer2.md)
-  - [Curso Practico de Frontend Developer ](practico_frontend_developer.md)
-  - [Fundamentos de JavaScript 2018](javascript2018.md)
   - [Curso Básico de Javascript](curso_basico_de_javascript.md)
-  - [Curso Práctico de Javascript](curso_practico_de_javascript.md)
   - [Curso de EcmaScript66](curso_de_ecmaScript6.md)
+  - [Curso de Frontend Developer ](frontend_developer2.md)
+  - [Curso de Frontend Developer 2019](frontend_developer.md)
+  - [Curso de Fundamentos de Angular](curso_de_fundamentos_de_angular.md)
+  - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_intro_web.md)
   - [Curso de Next.js](nextjs.md)
-  - [Curso de Tailwind CSS](tailwind.md)
+  - [Curso de Prework: Configuración de Entorno de Desarrollo en macOS](prework_mac.md)
+  - [Curso de Prework: Configuración de Entorno de Desarrollo en Windows](prework.md)
   - [Curso de Svelte](svelte.md)
+  - [Curso de Tailwind CSS](tailwind.md)
+  - [Curso Definitivo de HTML y CSS](curso_definitivo_de_html_y_css.md)
+  - [Curso Practico de Frontend Developer ](practico_frontend_developer.md)
+  - [Curso Práctico de Javascript](curso_practico_de_javascript.md)
+  - [Fundamentos de JavaScript 2018](javascript2018.md)
 
   **BackEnd**
 
