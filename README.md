@@ -127,6 +127,7 @@ LISTA DE CURSOS
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
   - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)  
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
+  - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
 
 &nbsp;
 
