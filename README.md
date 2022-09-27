@@ -155,6 +155,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center"><a href="https://github.com/eloyortiz"><img src="https://avatars.githubusercontent.com/u/2855364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eloy Ortiz</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3Aeloyortiz" title="Reviewed Pull Requests">👀</a> <a href="#content-eloyortiz" title="Content">🖋</a></td>
       <td align="center"><a href="https://linktr.ee/akrista"><img src="https://avatars.githubusercontent.com/u/23145794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Thomas - Akrista</b></sub></a><br /><a href="#content-Akrista" title="Content">🖋</a></td>
       <td align="center"><a href="https://github.com/MiguelMurrugarraTorres"><img src="https://avatars.githubusercontent.com/u/20019777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miguel Angel Murrugarra Torres</b></sub></a><br /><a href="#content-MiguelMurrugarraTorres" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/AnabelBerumen"><img src="https://avatars.githubusercontent.com/u/25898902?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anabel Berumen</b></sub></a><br /><a href="#content-AnabelBerumen" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
