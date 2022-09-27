@@ -4,7 +4,7 @@
 ###  CSS son hojas de estilo en cascada. Este enunciado es:
     Verdadero
 ###  ¿Para qué nos sirven los motores de renderizado?
-    Para pasar los archivos a píxeles en pantalla
+    Para pasar los archivos a píxeles en pantalla.
 ###  Un ejemplo de elemento vacío en HTML es:
     <img>
 ### El HTML semántico NO nos permite:
