@@ -125,7 +125,9 @@ LISTA DE CURSOS
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
-  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)
+  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)  
+  - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
+  - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
 
 &nbsp;
 
