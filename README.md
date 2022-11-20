@@ -132,6 +132,7 @@ LISTA DE CURSOS
   - [Curso de Inglés Intermedio: Pronunciación](ingles_intermedio_pronunciacion.md)  
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
   - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
+  - [Curso de Inglés para Developers](ingles_developers.md)
 
 &nbsp;
 
