@@ -14,6 +14,7 @@
     Ceros y unos
 ## ¿Quality of Service es
     (Descartar esta opcion) Como los usuarios perciben la calidad de servicio   del proveedor de telefonía
+    (Descartar esta opcion) En qué paso del Critical Rendering Path comenzamos a crear la estructura del proyecto sin diseño
 ## ¿Un archivo de texto con la palabra "Platzi" debe pesar
     6 bytes
 ## ¿El número 27 representado en binario es
