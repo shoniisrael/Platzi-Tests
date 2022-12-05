@@ -18,7 +18,7 @@ LISTA DE CURSOS
   - [Curso Logica de Programación](curso_logica_de_programacion.md)
   - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md)
   - [Curso de Programación Orientada a Objetos: POO](poo.md)
-  - [Curso Profesional de Git y GitHub](git.md)
+  - [Curso Profesional de Git y GitHub](git_y_github.md)
   - [Fundamentos de Ingeniería de Software](fundamentos.md)
   - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
   - [API rest Course](api_rest_course.md)
@@ -114,7 +114,8 @@ LISTA DE CURSOS
 - ### INGLES
   - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
   - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)
-  - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)
+  - [Curso de Inglés Básico A1: Elementos y Expresiones de Trabajo](ingles_a1_elementos_y_expresiones_de_trabajo.md)
+  - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](ingles_a1_presente_simple_y_vocabulario_comun.md)
   - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](taller_ingles_a1_familia.md)
   - [Taller de Inglés Básico A2: Describiendo mi Casa](taller_ingles_a2_casa.md)
   - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
