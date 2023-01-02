@@ -1,7 +1,9 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -50,6 +52,9 @@ LISTA DE CURSOS
   **Backend, Arquitectura y Bases de Datos**
 
   - [Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia](fundamentos_alta_concurrencia.md)
+  - [Curso de Introducción a la Terminal y Línea de Comandos](int_terminal_commandline.md)
+  - [Curso de Introducción a la Nube con Azure](int_nube_azure.md)
+  - [Curso de Administración de Servidores Linux](linux_server_admin.md)
 
   **Bases de Datos**
 
@@ -69,12 +74,17 @@ LISTA DE CURSOS
 
   **Machine Learning y Data Science**
 
-  - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
+  - [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](por_que_aprender_data_science.md)
   - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
   - [Curso de Excel Básico](curso_de_excel_basico.md)
+  - [Curso de Introducción a Excel](int_excel.md)
+  - [Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards](excel_intermedio_inf_analisis_dashboards.md)
+  - [Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](etica_manejo_datos_data_science_ia.md)
+  - [Curso Básico de Visualización de Datos con Matplotlib y Seaborn](basic_dataviz_matplotlib_seaborn.md)
+  - [Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy](basic_data_transform_pandas&numpy.md)
 
   **Criptomonedas**
 
@@ -87,6 +97,7 @@ LISTA DE CURSOS
   **Videojuegos**
 
   - [Curso Práctico de React JS](react.md)
+  - [Curso de Introducción a Godot para Desarrollar Videojuegos](int_godot_dev_games.md)
 
 - ### DISEÑO Y UX
 
@@ -100,6 +111,7 @@ LISTA DE CURSOS
 
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
+  - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
 
 - ### CONTENIDO DIGITAL
 
@@ -125,7 +137,7 @@ LISTA DE CURSOS
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
-  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)  
+  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
   - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
 
