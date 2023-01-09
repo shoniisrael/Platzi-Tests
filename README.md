@@ -49,6 +49,7 @@ LISTA DE CURSOS
 
   **Backend, Arquitectura y Bases de Datos**
 
+  - [Curso de Administración de Servidores Linux](administracion_servidores_linux.md)
   - [Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia](fundamentos_alta_concurrencia.md)
 
   **Bases de Datos**
