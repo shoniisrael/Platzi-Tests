@@ -63,6 +63,7 @@ LISTA DE CURSOS
   **Cloud**
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
+  - [Certificación Cloud Digital Leader](Certificacion Cloud Digital Leader.md)
 
   **Seguridad**
 
