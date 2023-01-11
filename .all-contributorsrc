@@ -27,7 +27,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/34179646?v=4",
       "profile": "https://github.com/cryger",
       "contributions": [
-        "content"
+        "content",
+        "data"
       ]
     },
     {
@@ -54,7 +55,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/99428338?v=4",
       "profile": "https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/",
       "contributions": [
-        "content"
+        "content",
+        "data"
       ]
     },
     {
@@ -73,6 +75,127 @@
       "name": "Juan Diego A.",
       "avatar_url": "https://avatars.githubusercontent.com/u/25759070?v=4",
       "profile": "https://github.com/halcolo",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "JotaJota96",
+      "name": "Juan Alvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/42627463?v=4",
+      "profile": "https://www.linkedin.com/in/jotajota96/",
+      "contributions": [
+        "content",
+        "data"
+      ]
+    },
+    {
+      "login": "Juandieruiz",
+      "name": "Juan Diego Gómez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/77864382?v=4",
+      "profile": "https://allmylinks.com/juandieruiz",
+      "contributions": [
+        "content",
+        "review"
+      ]
+    },
+    {
+      "login": "J0SANT",
+      "name": "JOSE SALINAS",
+      "avatar_url": "https://avatars.githubusercontent.com/u/109848058?v=4",
+      "profile": "https://github.com/J0SANT",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "IngAamira",
+      "name": "IngAamira",
+      "avatar_url": "https://avatars.githubusercontent.com/u/67479844?v=4",
+      "profile": "https://github.com/IngAamira",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "eloyortiz",
+      "name": "Eloy Ortiz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2855364?v=4",
+      "profile": "https://github.com/eloyortiz",
+      "contributions": [
+        "review",
+        "content"
+      ]
+    },
+    {
+      "login": "Akrista",
+      "name": "Jorge Thomas - Akrista",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23145794?v=4",
+      "profile": "https://linktr.ee/akrista",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "MiguelMurrugarraTorres",
+      "name": "Miguel Angel Murrugarra Torres",
+      "avatar_url": "https://avatars.githubusercontent.com/u/20019777?v=4",
+      "profile": "https://github.com/MiguelMurrugarraTorres",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "AnabelBerumen",
+      "name": "Anabel Berumen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/25898902?v=4",
+      "profile": "https://github.com/AnabelBerumen",
+      "contributions": [
+        "content",
+        "data"
+      ]
+    },
+    {
+      "login": "Deux-Machine",
+      "name": "Bástian Álvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97246689?v=4",
+      "profile": "https://github.com/Deux-Machine",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "IngJorgeLuisMayorga",
+      "name": "Ing. Jorge Luis Mayorga Taboda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40527919?v=4",
+      "profile": "http://www.jlmayorga.com.co",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "EDUARX24",
+      "name": "Eduar García",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86901461?v=4",
+      "profile": "https://github.com/EDUARX24",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "huxwell-src",
+      "name": "huxwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65736835?v=4",
+      "profile": "https://github.com/huxwell-src",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "jonathanbarzola",
+      "name": "Jonathan Barzola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101309300?v=4",
+      "profile": "https://github.com/jonathanbarzola",
       "contributions": [
         "content"
       ]

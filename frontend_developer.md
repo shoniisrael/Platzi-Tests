@@ -83,7 +83,7 @@ Verdadero
 ### 2. CSS son hojas de estilo en cascada. Este enunciado es:
     Verdadero
 ### 3. ¿Para qué nos sirven los motores de renderizado?
-interpretar el lenguaje que se mostrara en un navegador
+Para pasar los archivos a píxeles en pantalla
 ### 4.Un ejemplo de elemento vacío en HTML es:
     <img>
 ### 5. El HTML semántico NO nos permite:
