@@ -39,55 +39,55 @@
 ## 13. ¿Cómo llaman GitHub y GitLab a los "merges" (propuestas de cambios desde otra rama o repositorio)?
     GitHub los llama Pull Request y GitLab Merge Request.
 
-## 14. 
+## 14. ¿Cuál es la diferencia entre git rm y git reset HEAD?
+    git rm saca los archivos del repositorio y (opcionalmente) del disco duro. git reset head saca los archivos de Staging, pero no del disco duro.
+
+## 15. ¿Cuánto tiempo de soporte tengo con las versones LTS de Ubuntu?
+    5 años.
+
+## 16. ¿Qué comando se puede utilizar para mostrar la información de la conexión de red actual (Direccioón IP y MAC) en Ubuntu y CentOS sin instalar paquetes adicionales?
+    ip a
+
+## 17. ¿Cuál es el protocolo que me permite conectar a otras máquinas de Linux de forma segura y ejecutar comandos en un servidor remoto?
+    ssh
+
+## 18. Al realizar la configuración de una base de datos, ¿cuál comando puedo utilizar para proporcionar seguridad básica en una base de datos MySQL o MariaDB?
+    mysql_secure_installation
+
+## 19. ¿Cuál operador redirige la salida de pantalla a un archivo y lo concatena al final?
+    >>
+    
+## 20.¿Cuál es el Firewall instalado por defecto en distribuciones Ubuntu? 
+    ufw
+    
+## 21. Comando para verificar los puertos en escucha de nuestro servidor:
+    netstat
+
+## 22. El reporte CVE-2017-18017 corresponde a:
+    Vulnerabilidad en el kernel de Linux antes de la versión 4.11, 4.9.x y antes de la versión 4.9.36
+
+## 23. La shell o línea de comandos es:
     
 
-## 15. 
-    
+## 24. ¿Con cuál comando copiamos un directorio y su contenido? (Esto hace parte de uno de los retos de que dejé)
+    cp -r mi_directorio ruta_destino
 
-## 16. 
-    
+## 25. ¿Qué comando muestra las últimas 5 líneas de texto de un documento?
+    tail -n 5 mi_texto
 
-## 17. 
-    
+## 26. Con el siguiente comando podemos ver la ruta del directorio Home de nuestro usuario:
+    echo $HOME
 
-## 18. 
-    
+## 27. Para usar grep sin distinción de mayúsculas o minúsculas usamos:
+    -i
 
-## 19. 
-    
-    
-## 20. 
-    
-    
-## 21. 
-    
+## 28.¿Qué ha pasado desde que se usa inteligencia artificial en las instalaciones de GCP? 
+    30% de reducción en procesos de enfriamiento.
 
-## 22. 
+## 29. ¿Qué sucedió en la era de la nube transformacional?
+    Se comenzaron a incorporar todos los servicios computacionales cloud en todo tipo de empresa.
     
-
-## 23. 
-    
-
-## 24. 
-    
-
-## 25. 
-    
-
-## 26. 
-    
-
-## 27. 
-    
-
-## 28. 
-    
-
-## 29. 
-    
-    
-## 30. 
-    
+## 30. ¿Cuál es una ventaja de usar el Cloud Marketplace al armar tu solución de software empresarial?
+    Generar una sola factura por todos los servicios.
     
 
