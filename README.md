@@ -125,20 +125,26 @@ LISTA DE CURSOS
 - ### INGLES
   - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
   - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)
+  - [Taller de Inglés básico A1: Elementos y Expresiones de Trabajo](taller_ingles_a1_trabajo.md)
   - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)
   - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](taller_ingles_a1_familia.md)
   - [Taller de Inglés Básico A2: Describiendo mi Casa](taller_ingles_a2_casa.md)
   - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
   - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
   - [Curso de Inglés Básico: Pronunciación](ingles_basico_pronunciacion.md)
+  - [Audiocurso de Inglés para Viajes](audiocurso_ingles_viajes.md)
   - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
   - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
-  - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
-  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)
+
+  - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_escritura.md)
+  - [Curso de Inglés Intermedio: Escritura](ingles_intermedio_vocabulario.md)
+  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)   
+  - [Curso de Inglés Intermedio: Pronunciación](ingles_intermedio_pronunciacion.md)  
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
   - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
+  - [Curso de Inglés para Developers](ingles_developers.md)
 
 &nbsp;
 
@@ -153,11 +159,11 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt="shoniisrael"/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt="Carlos Santaniello"/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt="cryger"/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a> <a href="#data-cryger" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt="Carlos Santiago"/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt="Gerson Malca Bazan"/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt="Juan Manuel Sandri"/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a> <a href="#data-JuanmaSandri" title="Data">🔣</a></td>
-      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt="Carlos Santaniello"/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/halcolo"><img src="https://avatars.githubusercontent.com/u/25759070?v=4?s=100" width="100px;" alt="Juan Diego A."/><br /><sub><b>Juan Diego A.</b></sub></a><br /><a href="#content-halcolo" title="Content">🖋</a></td>
     </tr>
     <tr>
