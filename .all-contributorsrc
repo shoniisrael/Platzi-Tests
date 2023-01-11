@@ -150,6 +150,52 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/25898902?v=4",
       "profile": "https://github.com/AnabelBerumen",
       "contributions": [
+        "content",
+        "data"
+      ]
+    },
+    {
+      "login": "Deux-Machine",
+      "name": "Bástian Álvarez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/97246689?v=4",
+      "profile": "https://github.com/Deux-Machine",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "IngJorgeLuisMayorga",
+      "name": "Ing. Jorge Luis Mayorga Taboda",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40527919?v=4",
+      "profile": "http://www.jlmayorga.com.co",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "EDUARX24",
+      "name": "Eduar García",
+      "avatar_url": "https://avatars.githubusercontent.com/u/86901461?v=4",
+      "profile": "https://github.com/EDUARX24",
+      "contributions": [
+        "content"
+      ]
+    },
+    {
+      "login": "huxwell-src",
+      "name": "huxwell",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65736835?v=4",
+      "profile": "https://github.com/huxwell-src",
+      "contributions": [
+        "data"
+      ]
+    },
+    {
+      "login": "jonathanbarzola",
+      "name": "Jonathan Barzola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101309300?v=4",
+      "profile": "https://github.com/jonathanbarzola",
+      "contributions": [
         "content"
       ]
     }

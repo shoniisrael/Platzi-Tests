@@ -14,6 +14,7 @@
     Ceros y unos
 ## ¿Quality of Service es
     (Descartar esta opcion) Como los usuarios perciben la calidad de servicio   del proveedor de telefonía
+    (Descartar esta opcion) Como los ISP priorizan el tráfico para darte un mejor servicio
 ## ¿Un archivo de texto con la palabra "Platzi" debe pesar
     6 bytes
 ## ¿El número 27 representado en binario es
