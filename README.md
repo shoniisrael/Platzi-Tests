@@ -36,6 +36,8 @@ LISTA DE CURSOS
   - [Curso Básico de Javascript](curso_basico_de_javascript.md)
   - [Curso Práctico de Javascript](curso_practico_de_javascript.md)
   - [Curso de EcmaScript66](curso_de_ecmaScript6.md)
+  - [Curso de Manipulación del DOM](curso_de_manipulación_del_dom.md)
+  - [Curso de Asincronismo de JavaScript](curso_de_asincronismo_con_javascript.md)
   - [Curso de Next.js](nextjs.md)
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
@@ -61,6 +63,7 @@ LISTA DE CURSOS
   **Matemáticas**
 
   - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
+  - [Curso de lenguaje y notación matematica](curso_de_lenguaje_y_notacion_matematica.md)
 
   **Cloud**
 
@@ -110,7 +113,7 @@ LISTA DE CURSOS
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
   - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
-  - [Curso Profesional de Scrum](Curso_Profesional_de_Scrum)
+  - [Curso Profesional de Scrum](curso_profesional_de_scrum.md)
 
 - ### CONTENIDO DIGITAL
 
