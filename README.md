@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-19-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-20-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -175,6 +175,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="http://www.jlmayorga.com.co"><img src="https://avatars.githubusercontent.com/u/40527919?v=4?s=100" width="100px;" alt="Ing. Jorge Luis Mayorga Taboda"/><br /><sub><b>Ing. Jorge Luis Mayorga Taboda</b></sub></a><br /><a href="#content-IngJorgeLuisMayorga" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/EDUARX24"><img src="https://avatars.githubusercontent.com/u/86901461?v=4?s=100" width="100px;" alt="Eduar García"/><br /><sub><b>Eduar García</b></sub></a><br /><a href="#content-EDUARX24" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/huxwell-src"><img src="https://avatars.githubusercontent.com/u/65736835?v=4?s=100" width="100px;" alt="huxwell"/><br /><sub><b>huxwell</b></sub></a><br /><a href="#data-huxwell-src" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jonathanbarzola"><img src="https://avatars.githubusercontent.com/u/101309300?v=4?s=100" width="100px;" alt="Jonathan Barzola"/><br /><sub><b>Jonathan Barzola</b></sub></a><br /><a href="#content-jonathanbarzola" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
