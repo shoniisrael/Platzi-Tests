@@ -188,6 +188,15 @@
       "contributions": [
         "data"
       ]
+    },
+    {
+      "login": "jonathanbarzola",
+      "name": "Jonathan Barzola",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101309300?v=4",
+      "profile": "https://github.com/jonathanbarzola",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,
