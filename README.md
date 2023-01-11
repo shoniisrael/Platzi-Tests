@@ -136,15 +136,17 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
 <table>
-  <tr>
-    <td align="center"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt=""/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
-    <td align="center"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a></td>
-    <td align="center"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a></td>
-    <td align="center"><a href="https://github.com/halcolo"><img src="https://avatars.githubusercontent.com/u/25759070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Diego A.</b></sub></a><br /><a href="#content-halcolo" title="Content">🖋</a></td>
-  </tr>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt="shoniisrael"/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt="cryger"/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt="Carlos Santiago"/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt="Gerson Malca Bazan"/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt="Juan Manuel Sandri"/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt="Carlos Santaniello"/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=cesantaniello" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/halcolo"><img src="https://avatars.githubusercontent.com/u/25759070?v=4?s=100" width="100px;" alt="Juan Diego A."/><br /><sub><b>Juan Diego A.</b></sub></a><br /><a href="#content-halcolo" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
 </table>
 
 <!-- markdownlint-restore -->
