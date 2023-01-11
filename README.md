@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -173,6 +173,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/AnabelBerumen"><img src="https://avatars.githubusercontent.com/u/25898902?v=4?s=100" width="100px;" alt="Anabel Berumen"/><br /><sub><b>Anabel Berumen</b></sub></a><br /><a href="#content-AnabelBerumen" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Deux-Machine"><img src="https://avatars.githubusercontent.com/u/97246689?v=4?s=100" width="100px;" alt="Bástian Álvarez"/><br /><sub><b>Bástian Álvarez</b></sub></a><br /><a href="#content-Deux-Machine" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.jlmayorga.com.co"><img src="https://avatars.githubusercontent.com/u/40527919?v=4?s=100" width="100px;" alt="Ing. Jorge Luis Mayorga Taboda"/><br /><sub><b>Ing. Jorge Luis Mayorga Taboda</b></sub></a><br /><a href="#content-IngJorgeLuisMayorga" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EDUARX24"><img src="https://avatars.githubusercontent.com/u/86901461?v=4?s=100" width="100px;" alt="Eduar García"/><br /><sub><b>Eduar García</b></sub></a><br /><a href="#content-EDUARX24" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
