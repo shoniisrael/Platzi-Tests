@@ -39,6 +39,7 @@ LISTA DE CURSOS
   - [Curso de Next.js](nextjs.md)
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
+  - [Curso de Fundamentos de Angular](curso_de_fundamentos_de_angular.md)
 
   **BackEnd**
 
