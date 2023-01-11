@@ -1,9 +1,7 @@
 # Curso de Prework: Configuración de Entorno de Desarrollo en Windows
 
 ## ¿Qué es el navegador?
-    (Descartar esto --)Todas las opciones son correctas.
-
-
+    La herramienta que nos sirve para interpretar nuestro HTML, CSS y JavaScript.
 ## ¿Qué son las DevTools?
     Herramientas o versiones de un navegador que incluyen utilidades para ver y analizar el comportamiento de lo que estamos programando.
 ## ¿Qué es un editor de texto o editor de código?
