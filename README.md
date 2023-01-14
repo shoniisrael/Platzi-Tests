@@ -64,6 +64,7 @@ LISTA DE CURSOS
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
   - [Certificación Cloud Digital Leader](Certificacion_Cloud_Digital_Leader.md)
+  - [Curso de Introducción a la Nube con Azure](introduccion_nube_azure.md)
 
   **Seguridad**
 
@@ -114,17 +115,33 @@ LISTA DE CURSOS
 - ### STARTUPS
 
 - ### INGLES
+
+  **Beginner A1-A2**
+  
   - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
+  - [Curso de Inglés Básico A1: Tus Primeras Conversaciones]()
+  - [Curso de Inglés Básico A1: ]()
+  - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
+  - [Curso de Inglés Básico: Pronunciación](ingles_basico_pronunciacion.md)
   - [Curso de Inglés Básico A1: para Principiantes](ingles_a1_principiantes.md)
   - [Curso de Inglés Básico A1: Elementos y Expresiones de Trabajo](ingles_a1_elementos_y_expresiones_de_trabajo.md)
   - [Curso de Inglés Básico A1: Presente Simple y Vocabulario Comun](ingles_a1_presente_simple_y_vocabulario_comun.md)
   - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](taller_ingles_a1_familia.md)
   - [Curso de Inglés Básico A2: Preguntas y Respuestas](ingles_a2_preguntas_y_respuestas.md)
+  - [Curso de Inglés Básico A2: Preguntas y Respuestas v2](ingles_a2_preguntas_y_respuestas_v2.md)
   - [Taller de Inglés Básico A2: Elementos de la Casa](taller_ingles_a2_casa.md)
   - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
+  - [Curso de Inglés Básico A2: Adverbios y Sustantivos*](ingles_a2_adverbios_y_sustantivos.md)
   - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
-  - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
-  - [Curso de Inglés Básico: Pronunciación](ingles_basico_pronunciacion.md)
+  - [Curso de Inglés Básico A2: Cantidades y Gerundios**](ingles_a2_cantidades_y_gerundios.md)
+  - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo**](ingles_a2_proposiciones_y_presente_continuo.md)
+  - [Curso de Inglés Básico A2: Conjunciones y Superlativos**](ingles_a2_conjunciones_y_superlativos.md)
+  - [Curso de Inglés Básico A2: Actividad Física y Partes del Cuerpo**](ingles_a2_actividades_fisicas_y_partes_cuerpo.md)
+  - [Curso de Inglés Básico A2: Experiencias Pasadas e Interaciones Futuras**](ingles_a2_experiencias_pasadas_y_interacciones_futuras.md)
+  - [Curso de Inglés Básico A2: Descripciones y Comparativos**](ingles_a2_descipciones_y_comparativos.md)
+  
+  **Intermediate B1**
+  
   - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
   - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
