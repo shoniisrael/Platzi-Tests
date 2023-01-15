@@ -64,7 +64,7 @@ LISTA DE CURSOS
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
   - [Certificación Cloud Digital Leader](Certificacion_Cloud_Digital_Leader.md)
-  - [Curso de Introducción a la Nube con Azure](introduccion_nube_azure.md)
+  - [Curso de Introducción a la Nube con Azure*](introduccion_nube_azure.md)
 
   **Seguridad**
 
@@ -131,7 +131,7 @@ LISTA DE CURSOS
   - [Curso de Inglés Básico A2: Preguntas y Respuestas v2](ingles_a2_preguntas_y_respuestas_v2.md)
   - [Taller de Inglés Básico A2: Elementos de la Casa](taller_ingles_a2_casa.md)
   - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
-  - [Curso de Inglés Básico A2: Adverbios y Sustantivos*](ingles_a2_adverbios_y_sustantivos.md)
+  - [Curso de Inglés Básico A2: Adverbios y Sustantivos](ingles_a2_adverbios_y_sustantivos.md)
   - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
   - [Curso de Inglés Básico A2: Cantidades y Gerundios**](ingles_a2_cantidades_y_gerundios.md)
   - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo**](ingles_a2_proposiciones_y_presente_continuo.md)
