@@ -64,6 +64,7 @@ LISTA DE CURSOS
 
   - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
   - [Curso de lenguaje y notación matematica](curso_de_lenguaje_y_notacion_matematica.md)
+  - [Curso de Álgebra](curso_de_algebra.md)
 
   **Cloud**
 
