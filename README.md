@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-21-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -187,6 +187,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/huxwell-src"><img src="https://avatars.githubusercontent.com/u/65736835?v=4?s=100" width="100px;" alt="huxwell"/><br /><sub><b>huxwell</b></sub></a><br /><a href="#data-huxwell-src" title="Data">🔣</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/jonathanbarzola"><img src="https://avatars.githubusercontent.com/u/101309300?v=4?s=100" width="100px;" alt="Jonathan Barzola"/><br /><sub><b>Jonathan Barzola</b></sub></a><br /><a href="#content-jonathanbarzola" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/McAsButton"><img src="https://avatars.githubusercontent.com/u/20953797?v=4?s=100" width="100px;" alt="Miguel Angel Santa"/><br /><sub><b>Miguel Angel Santa</b></sub></a><br /><a href="#content-McAsButton" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://grefix.com.co"><img src="https://avatars.githubusercontent.com/u/119634605?v=4?s=100" width="100px;" alt="d a s"/><br /><sub><b>d a s</b></sub></a><br /><a href="#content-dasxgo" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>
