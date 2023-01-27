@@ -20,7 +20,7 @@ Depende de la necesidad y su uso.
 
 5. ¿En la sentencia de Matplotlib "fig, axes = plt.subplots(nrows=1, ncols=2)" axes de qué tipo se le asigna un objeto?
 
-Python tuple
+ndarray (NumPy array)
 
 6. ¿Para qué sirve el uso de leyendas, etiquetas y títulos en nuestras visualizaciones de datos?
 
