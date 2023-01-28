@@ -1,0 +1,87 @@
+1.Definición de pruebas:
+Es el proceso de evaluar un producto, aprendiendo través de la exploración y experimentación, lo cual incluye: Cuestionar, estudiar, modelar, observar e inferir, checar salidas de datos, etc
+
+2.¿Qué contempla la calidad del Software?
+La calidad del producto y la calidad del proceso
+
+3.¿Qué es Verificación?
+Son aquellas que ejecutamos en cada etapa del desarrollo del software, y en cada etapa resolvemos la pregunta: ¿Estamos construyendo el producto correctamente?
+
+4.¿Durante cuál etapa se hace la validación?
+Etapa de pruebas
+
+5.Selecciona cuál de las siguientes frases forma parte de los 7 principios de testing moderno:
+Nosotros somos la fuerza para la mejora continua, usamos una red de seguridad para detectar fallas (ESTA MALA PERO APRUEBAS EL EXAMEN)
+
+6.Selecciona qué defectos se pueden detectar durante la fase de diseño:
+Baja usabilidad, diseño pobre, lógica y definición de datos incorrecta
+
+7.Selecciona qué defectos se pueden detectar en el Frontend:
+Distribución de elementos incorrectos, lenguaje y texto incorrecto y funciones mal validadas
+
+8.Selecciona qué defectos se pueden detectar durante la codificación:
+Errores de sintaxis, código sin uso y funciones sin validaciones
+
+9.¿Cuáles son las preguntas claves que debes hacerte para comenzar una estrategia de pruebas?
+¿Qué problema tenemos actualmente?
+¿Qué problemas debemos evitar?
+
+10.Qué palabras faltan en la siguiente frase: El ( a )_ te pemite seguir creciendo la cobertura de pruebas de tu ( b )__ por otro lado el ( c )__ solo te permite confirmar que sigue funcionando ( d )_.
+a) Testing
+b) Producto
+c) Checking
+d) lo que ya fue probado
+
+11.¿Cuáles son las pruebas principales que hace un desarrollador?
+Pruebas Unitarias
+
+12.Metodología de pruebas de software que sigue los principios del desarrollo ágil de software, que involucra a todos los miembros de un equipo ágil multifuncional el cual debe garantizar el valor de negocio deseado por el cliente a un ritmo sostenible y continuo:
+Testing ágil
+
+13.¿Cuál de los siguientes escenarios corresponde a una prueba de integración?
+Respuesta a la recepción o envío de pagos
+
+14.¿Cuál de los siguientes escenarios corresponde a una prueba End to End?
+Actualización de datos personales
+
+15.¿Cuál es el principal enfoque de las pruebas funcionales?
+Averiguar “lo que el sistema hace”
+
+16.¿Cuál de las siguientes opciones son pruebas estructurales?
+Pruebas a bases de datos, protocolos
+
+17.¿Qué tipo de pruebas son de caja negra?
+Funcionales y no funcionales
+
+18.¿En qué situaciones hacemos pruebas de caja blanca?
+Cuando conocemos el código y la estructura
+
+19.Del siguiente listado elige quiénes se pueden considerar testers técnicos:
+Tester de pruebas automatizadas
+
+20.¿Cuáles son las responsabilidades de un ingeniero de calidad (QE)?
+Reducir el error humano
+
+21.No documentar correctamente, no poner evidencia en los defectos, llevar a cabo malas prácticas de codificación son ejemplos de:
+Retrabajo
+
+22.Un defecto es la falla en desempeñar las funciones requeridas y una sugerencia es un cambio en el software para mejorar la experiencia del usuario.
+Verdadero
+
+23.¿Qué elementos básicos se deben documentar en un defecto?
+Título, descripción, precondiciones, pasos para reproducir el defecto, resultado esperado, resultado actual y evidencia del defecto
+
+24.¿Cuál es una técnica de depuración?
+LOGS
+
+25.¿Cuál es el objetivo de la depuración?
+Encontrar y arreglar errores
+
+26.¿Qué pruebas son las que se pueden automatizar?
+Pruebas Unitarias
+
+27.¿Cuál de los siguientes pasos no es parte del Proceso de la técnica TDD?
+Se borra el código
+
+28.No es una de las ventajas del Gherkin:
+Requiere mucho tiempo de estudio
