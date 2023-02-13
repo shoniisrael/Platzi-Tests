@@ -48,6 +48,7 @@ LISTA DE CURSOS
   - [Curso de Introducción a Java SE](java_se.md)
 
   **Mobile**
+  - [Curso de Kotlin desde Cero](kotlin_desde_cero.md)
 
   **Backend, Arquitectura y Bases de Datos**
 
@@ -59,6 +60,8 @@ LISTA DE CURSOS
   **Bases de Datos**
 
   - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
+  - [Curso de MySQL y Maria BD](Curso_MySQL_y_MariaBD.md)
+  - 
 
   **Matemáticas**
 
