@@ -87,6 +87,7 @@ LISTA DE CURSOS
   - [Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](etica_manejo_datos_data_science_ia.md)
   - [Curso Básico de Visualización de Datos con Matplotlib y Seaborn](basic_dataviz_matplotlib_seaborn.md)
   - [Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy](basic_data_transform_pandas&numpy.md)
+  - [Curso de Principios de Visualización de Datos para Business Intelligence](curso_de_principios_de_visualización_de_datos _para_business_intelligence.md)
 
   **Criptomonedas**
 
