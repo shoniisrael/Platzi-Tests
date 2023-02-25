@@ -56,9 +56,11 @@ LISTA DE CURSOS
 
   - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
 
-  **Matemáticas**
+  **Aritmetica**
 
   - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
+  - [Curso de Álgebra](curso_algebra.md)
+  - [Curso de Lenguaje y Notación Matemática](curso_lenguaje_notacion_matematica.md)
 
   **Cloud**
 
@@ -135,7 +137,7 @@ LISTA DE CURSOS
   - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
   - [Curso de Inglés Básico A2: Adverbios y Sustantivos](ingles_a2_adverbios_y_sustantivos.md)
   - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
-  - [Curso de Inglés Básico A2: Cantidades y Gerundios**](ingles_a2_cantidades_y_gerundios.md)
+  - [Curso de Inglés Básico A2: Cantidades y Gerundios](ingles_a2_cantidades_y_gerundios.md)
   - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo**](ingles_a2_proposiciones_y_presente_continuo.md)
   - [Curso de Inglés Básico A2: Conjunciones y Superlativos**](ingles_a2_conjunciones_y_superlativos.md)
   - [Curso de Inglés Básico A2: Actividad Física y Partes del Cuerpo**](ingles_a2_actividades_fisicas_y_partes_cuerpo.md)
