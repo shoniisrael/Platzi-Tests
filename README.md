@@ -65,6 +65,8 @@ LISTA DE CURSOS
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
   - [Certificación Cloud Digital Leader](Certificacion_Cloud_Digital_Leader.md)
   - [Curso de Introducción a la Nube con Azure*](introduccion_nube_azure.md)
+  - [Curso Profesional de DevOps](curso_profesional_devops.md)
+  - [Fundamentos de IBM Cloud](fundamentos_ibm_cloud.md)
 
   **Seguridad**
 
