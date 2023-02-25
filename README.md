@@ -40,6 +40,7 @@ LISTA DE CURSOS
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
   - [Curso de Fundamentos de Angular](curso_de_fundamentos_de_angular.md)
+  - [Curso de Angular: Componentes y Servicios](curso_de_angular_componentes_y_servicios.md)
 
   **BackEnd**
 
