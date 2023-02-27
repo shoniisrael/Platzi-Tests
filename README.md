@@ -69,6 +69,7 @@ LISTA DE CURSOS
   - [Curso de Introducción a la Nube con Azure*](introduccion_nube_azure.md)
   - [Curso Profesional de DevOps](curso_profesional_devops.md)
   - [Fundamentos de IBM Cloud](fundamentos_ibm_cloud.md)
+  - [Curso de Docker](curso_docker.md)
 
   **Seguridad**
 
@@ -81,7 +82,6 @@ LISTA DE CURSOS
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
-  - [Curso de Excel Básico](curso_de_excel_basico.md)
 
   **Criptomonedas**
 
@@ -105,6 +105,10 @@ LISTA DE CURSOS
 
 - ### NEGOCIOS Y EMPRENDIMIENTO
 
+  - [Curso de Introducción a Educación Financiera](curso_introduccion_educacion_financiera.md)
+  - [Curso de Introducción a Excel](curso_introduccion_excel.md)
+  - [Curso de Excel Básico](curso_de_excel_basico.md)
+  - [Curso de Finanzas Personales](curso_finanzas_personales.md)
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
 
