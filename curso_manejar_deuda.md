@@ -4,7 +4,7 @@
     La confianza
 
 ## 2. Dejando todo lo demás constante, a mayor deuda tendremos:
-    
+    Menos liquidez y menor solvencia
 
 ## 3. Las coutas en los créditos se componen de:
     Abono a capital, intereses y otros cobros
@@ -28,7 +28,7 @@
     El beneficio del uso de la deuda supere el costo de la misma
 
 ## 10. A la hora de escoger un crédito, es tan importante como la tasa de interés:
-    
+    Cuidar la liquidez
 
 ## 11. Uno de los criterios más importantes para evaluar la conveniencia de endeudarnos -en nuestras finanzas personales- es:
     El costo de oportunidad
@@ -40,7 +40,7 @@
     Nuestras expectativas, la planeación financiera y la coyuntura económica
 
 ## 14. El primer paso para salir de deuda es:
-    
+    Conocerlas haciendo un inventario
 
 ## 15. Si quiero entender qué porcentaje de mi ingreso destino mensualmente para pagar mis deudas debería...
     Dividir el total de mis pagos mensuales a deudas sobre mis ingresos netos cada mes.
@@ -52,7 +52,7 @@
    La bola de nieve 
 
 ## 18. Una estrategia que podemos considerar para salir de deudas cuando estamos muy al ras en nuestras finanzas es:
-    
+    Consolidar nuestras deudas
 
 ## 19. Una estrategia que podemos considerar para salir de deudas cuando hemos entrado en dificultades financieras es:
     Solicitar una reestructuración de la deuda
