@@ -66,7 +66,7 @@ LISTA DE CURSOS
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
   - [Certificación Cloud Digital Leader](Certificacion_Cloud_Digital_Leader.md)
-  - [Curso de Introducción a la Nube con Azure*](introduccion_nube_azure.md)
+  - [Curso de Introducción a la Nube con Azure](introduccion_nube_azure.md)
   - [Curso Profesional de DevOps](curso_profesional_devops.md)
   - [Fundamentos de IBM Cloud](fundamentos_ibm_cloud.md)
   - [Curso de Docker](curso_docker.md)
@@ -109,6 +109,7 @@ LISTA DE CURSOS
   - [Curso de Introducción a Excel](curso_introduccion_excel.md)
   - [Curso de Excel Básico](curso_de_excel_basico.md)
   - [Curso de Finanzas Personales](curso_finanzas_personales.md)
+  - [Curso para Manejar tu Deuda](curso_manejar_deuda.md)
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
 
