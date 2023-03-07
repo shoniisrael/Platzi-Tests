@@ -1,7 +1,7 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -36,6 +36,8 @@ LISTA DE CURSOS
   - [Curso Básico de Javascript](curso_basico_de_javascript.md)
   - [Curso Práctico de Javascript](curso_practico_de_javascript.md)
   - [Curso de EcmaScript66](curso_de_ecmaScript6.md)
+  - [Curso de Manipulación del DOM](curso_de_manipulación_del_dom.md)
+  - [Curso de Asincronismo de JavaScript](curso_de_asincronismo_con_javascript.md)
   - [Curso de Next.js](nextjs.md)
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
@@ -51,6 +53,9 @@ LISTA DE CURSOS
 
   - [Curso de Administración de Servidores Linux](administracion_servidores_linux.md)
   - [Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia](fundamentos_alta_concurrencia.md)
+  - [Curso de Introducción a la Terminal y Línea de Comandos](int_terminal_commandline.md)
+  - [Curso de Introducción a la Nube con Azure](int_nube_azure.md)
+  - [Curso de Administración de Servidores Linux](linux_server_admin.md)
 
   **Bases de Datos**
 
@@ -77,11 +82,15 @@ LISTA DE CURSOS
 
   **Machine Learning y Data Science**
 
-  - [Como y Por Qué Aprender Data Science y Machine Learning](por_que_aprender_data_science.md)
+  - [Cómo y Por Qué Aprender Data Science e Inteligencia Artificial](por_que_aprender_data_science.md)
   - [Curso de Análisis de Negocios para Ciencia de Datos](analisis_negocios_para_ciencia_datos.md)
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
+  - [Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards](excel_intermedio_inf_analisis_dashboards.md)
+  - [Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](etica_manejo_datos_data_science_ia.md)
+  - [Curso Básico de Visualización de Datos con Matplotlib y Seaborn](basic_dataviz_matplotlib_seaborn.md)
+  - [Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy](basic_data_transform_pandas&numpy.md)
 
   **Criptomonedas**
 
@@ -94,6 +103,7 @@ LISTA DE CURSOS
   **Videojuegos**
 
   - [Curso Práctico de React JS](react.md)
+  - [Curso de Introducción a Godot para Desarrollar Videojuegos](int_godot_dev_games.md)
 
 - ### DISEÑO Y UX
 
@@ -112,6 +122,8 @@ LISTA DE CURSOS
   - [Curso para Manejar tu Deuda](curso_manejar_deuda.md)
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
+  - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
+  - [Curso Profesional de Scrum](curso_profesional_de_scrum.md)
 
 - ### CONTENIDO DIGITAL
 
@@ -155,10 +167,14 @@ LISTA DE CURSOS
   - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
-  - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_vocabulario.md)
-  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)  
+
+  - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_escritura.md)
+  - [Curso de Inglés Intermedio: Escritura](ingles_intermedio_vocabulario.md)
+  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)   
+  - [Curso de Inglés Intermedio: Pronunciación](ingles_intermedio_pronunciacion.md)  
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
   - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
+  - [Curso de Inglés para Developers](ingles_developers.md)
 
 &nbsp;
 
@@ -172,23 +188,34 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tbody>
     <tr>
-      <td align="center"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt=""/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt=""/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a> <a href="#data-cryger" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
-      <td align="center"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a> <a href="#data-JuanmaSandri" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a></td>
-      <td align="center"><a href="https://github.com/halcolo"><img src="https://avatars.githubusercontent.com/u/25759070?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Diego A.</b></sub></a><br /><a href="#content-halcolo" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/shoniisrael"><img src="https://avatars1.githubusercontent.com/u/20216696?s=400&u=31d9e1270608efdb51f213a255c5895e5b2fadbc&v=4?s=100" width="100px;" alt="shoniisrael"/><br /><sub><b>shoniisrael</b></sub></a><br /><a href="#ideas-shoniisrael" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=shoniisrael" title="Code">💻</a> <a href="#content-shoniisrael" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cryger"><img src="https://avatars.githubusercontent.com/u/34179646?v=4?s=100" width="100px;" alt="cryger"/><br /><sub><b>cryger</b></sub></a><br /><a href="#content-cryger" title="Content">🖋</a> <a href="#data-cryger" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/CarlosSant47"><img src="https://avatars.githubusercontent.com/u/43355361?v=4?s=100" width="100px;" alt="Carlos Santiago"/><br /><sub><b>Carlos Santiago</b></sub></a><br /><a href="#content-CarlosSant47" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/gersonmlb"><img src="https://avatars.githubusercontent.com/u/26355930?v=4?s=100" width="100px;" alt="Gerson Malca Bazan"/><br /><sub><b>Gerson Malca Bazan</b></sub></a><br /><a href="#content-gersonmlb" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/juan-manuel-sandri-95b0a8208/"><img src="https://avatars.githubusercontent.com/u/99428338?v=4?s=100" width="100px;" alt="Juan Manuel Sandri"/><br /><sub><b>Juan Manuel Sandri</b></sub></a><br /><a href="#content-JuanmaSandri" title="Content">🖋</a> <a href="#data-JuanmaSandri" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/cesantaniello"><img src="https://avatars.githubusercontent.com/u/42319088?v=4?s=100" width="100px;" alt="Carlos Santaniello"/><br /><sub><b>Carlos Santaniello</b></sub></a><br /><a href="#content-cesantaniello" title="Content">🖋</a> <a href="#data-cesantaniello" title="Data">🔣</a> <a href="https://github.com/shoniisrael/Platzi-Tests/commits?author=cesantaniello" title="Documentation">📖</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/halcolo"><img src="https://avatars.githubusercontent.com/u/25759070?v=4?s=100" width="100px;" alt="Juan Diego A."/><br /><sub><b>Juan Diego A.</b></sub></a><br /><a href="#content-halcolo" title="Content">🖋</a></td>
     </tr>
     <tr>
-      <td align="center"><a href="https://www.linkedin.com/in/jotajota96/"><img src="https://avatars.githubusercontent.com/u/42627463?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Alvarez</b></sub></a><br /><a href="#content-JotaJota96" title="Content">🖋</a> <a href="#data-JotaJota96" title="Data">🔣</a></td>
-      <td align="center"><a href="https://allmylinks.com/juandieruiz"><img src="https://avatars.githubusercontent.com/u/77864382?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Juan Diego Gómez</b></sub></a><br /><a href="#content-Juandieruiz" title="Content">🖋</a> <a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJuandieruiz" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center"><a href="https://github.com/J0SANT"><img src="https://avatars.githubusercontent.com/u/109848058?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JOSE SALINAS</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJ0SANT" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center"><a href="https://github.com/IngAamira"><img src="https://avatars.githubusercontent.com/u/67479844?v=4?s=100" width="100px;" alt=""/><br /><sub><b>IngAamira</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AIngAamira" title="Reviewed Pull Requests">👀</a></td>
-      <td align="center"><a href="https://github.com/eloyortiz"><img src="https://avatars.githubusercontent.com/u/2855364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Eloy Ortiz</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3Aeloyortiz" title="Reviewed Pull Requests">👀</a> <a href="#content-eloyortiz" title="Content">🖋</a></td>
-      <td align="center"><a href="https://linktr.ee/akrista"><img src="https://avatars.githubusercontent.com/u/23145794?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jorge Thomas - Akrista</b></sub></a><br /><a href="#content-Akrista" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/MiguelMurrugarraTorres"><img src="https://avatars.githubusercontent.com/u/20019777?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Miguel Angel Murrugarra Torres</b></sub></a><br /><a href="#content-MiguelMurrugarraTorres" title="Content">🖋</a></td>
-      <td align="center"><a href="https://github.com/AnabelBerumen"><img src="https://avatars.githubusercontent.com/u/25898902?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Anabel Berumen</b></sub></a><br /><a href="#content-AnabelBerumen" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://www.linkedin.com/in/jotajota96/"><img src="https://avatars.githubusercontent.com/u/42627463?v=4?s=100" width="100px;" alt="Juan Alvarez"/><br /><sub><b>Juan Alvarez</b></sub></a><br /><a href="#content-JotaJota96" title="Content">🖋</a> <a href="#data-JotaJota96" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://allmylinks.com/juandieruiz"><img src="https://avatars.githubusercontent.com/u/77864382?v=4?s=100" width="100px;" alt="Juan Diego Gómez"/><br /><sub><b>Juan Diego Gómez</b></sub></a><br /><a href="#content-Juandieruiz" title="Content">🖋</a> <a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJuandieruiz" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/J0SANT"><img src="https://avatars.githubusercontent.com/u/109848058?v=4?s=100" width="100px;" alt="JOSE SALINAS"/><br /><sub><b>JOSE SALINAS</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AJ0SANT" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/IngAamira"><img src="https://avatars.githubusercontent.com/u/67479844?v=4?s=100" width="100px;" alt="IngAamira"/><br /><sub><b>IngAamira</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3AIngAamira" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/eloyortiz"><img src="https://avatars.githubusercontent.com/u/2855364?v=4?s=100" width="100px;" alt="Eloy Ortiz"/><br /><sub><b>Eloy Ortiz</b></sub></a><br /><a href="https://github.com/shoniisrael/Platzi-Tests/pulls?q=is%3Apr+reviewed-by%3Aeloyortiz" title="Reviewed Pull Requests">👀</a> <a href="#content-eloyortiz" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://linktr.ee/akrista"><img src="https://avatars.githubusercontent.com/u/23145794?v=4?s=100" width="100px;" alt="Jorge Thomas - Akrista"/><br /><sub><b>Jorge Thomas - Akrista</b></sub></a><br /><a href="#content-Akrista" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/MiguelMurrugarraTorres"><img src="https://avatars.githubusercontent.com/u/20019777?v=4?s=100" width="100px;" alt="Miguel Angel Murrugarra Torres"/><br /><sub><b>Miguel Angel Murrugarra Torres</b></sub></a><br /><a href="#content-MiguelMurrugarraTorres" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/AnabelBerumen"><img src="https://avatars.githubusercontent.com/u/25898902?v=4?s=100" width="100px;" alt="Anabel Berumen"/><br /><sub><b>Anabel Berumen</b></sub></a><br /><a href="#content-AnabelBerumen" title="Content">🖋</a> <a href="#data-AnabelBerumen" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Deux-Machine"><img src="https://avatars.githubusercontent.com/u/97246689?v=4?s=100" width="100px;" alt="Bástian Álvarez"/><br /><sub><b>Bástian Álvarez</b></sub></a><br /><a href="#content-Deux-Machine" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.jlmayorga.com.co"><img src="https://avatars.githubusercontent.com/u/40527919?v=4?s=100" width="100px;" alt="Ing. Jorge Luis Mayorga Taboda"/><br /><sub><b>Ing. Jorge Luis Mayorga Taboda</b></sub></a><br /><a href="#content-IngJorgeLuisMayorga" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/EDUARX24"><img src="https://avatars.githubusercontent.com/u/86901461?v=4?s=100" width="100px;" alt="Eduar García"/><br /><sub><b>Eduar García</b></sub></a><br /><a href="#content-EDUARX24" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/huxwell-src"><img src="https://avatars.githubusercontent.com/u/65736835?v=4?s=100" width="100px;" alt="huxwell"/><br /><sub><b>huxwell</b></sub></a><br /><a href="#data-huxwell-src" title="Data">🔣</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/jonathanbarzola"><img src="https://avatars.githubusercontent.com/u/101309300?v=4?s=100" width="100px;" alt="Jonathan Barzola"/><br /><sub><b>Jonathan Barzola</b></sub></a><br /><a href="#content-jonathanbarzola" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/McAsButton"><img src="https://avatars.githubusercontent.com/u/20953797?v=4?s=100" width="100px;" alt="Miguel Angel Santa"/><br /><sub><b>Miguel Angel Santa</b></sub></a><br /><a href="#content-McAsButton" title="Content">🖋</a></td>
+    </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://grefix.com.co"><img src="https://avatars.githubusercontent.com/u/119634605?v=4?s=100" width="100px;" alt="d a s"/><br /><sub><b>d a s</b></sub></a><br /><a href="#content-dasxgo" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

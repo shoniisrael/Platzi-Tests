@@ -1,4 +1,4 @@
-# Como y Por Qué Aprender Data Science y Machine Learning
+# Cómo y Por Qué Aprender Data Science e Inteligencia Artificial
 
 ## 1. ¿Inteligencia artificial y data science son lo mismo?
     No, se relacionan pero son diferentes.
