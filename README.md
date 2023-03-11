@@ -121,6 +121,7 @@ LISTA DE CURSOS
   - [Curso de Excel Básico](curso_de_excel_basico.md)
   - [Curso de Finanzas Personales](curso_finanzas_personales.md)
   - [Curso para Manejar tu Deuda](curso_manejar_deuda.md)
+  - [Curso de Presupuesto y Flujo de Caja](curso_presupuesto_flujo_caja.md)
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
   - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
