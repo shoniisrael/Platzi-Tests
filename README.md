@@ -46,6 +46,7 @@ LISTA DE CURSOS
 
   - [Curso de C# con .Net Core](c_con_net.md)
   - [Curso de Introducción a Java SE](java_se.md)
+  - [Curso Básico de Rust: Variables, Ciclos y Funciones](basic_rust.md)
 
   **Mobile**
 
