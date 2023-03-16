@@ -41,6 +41,7 @@ LISTA DE CURSOS
   - [Curso de Next.js](nextjs.md)
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
+  - [Curso de Angular: Unit Testing para Servicios](Curso_de_Angular-Unit_Testing_para_Servicios.md)
 
   **BackEnd**
 
