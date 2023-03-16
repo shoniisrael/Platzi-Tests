@@ -76,6 +76,7 @@ LISTA DE CURSOS
   - [Curso Profesional de DevOps](curso_profesional_devops.md)
   - [Fundamentos de IBM Cloud](fundamentos_ibm_cloud.md)
   - [Curso de Docker](curso_docker.md)
+  - [Curso de Docker Swarm](curso_swarm.md)
 
   **Seguridad**
 
