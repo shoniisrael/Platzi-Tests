@@ -159,7 +159,7 @@ LISTA DE CURSOS
   - [Curso de Inglés Básico A2: Cantidades y Gerundios](ingles_a2_cantidades_y_gerundios.md)
   - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo](ingles_a2_proposiciones_y_presente_continuo.md)
   - [Curso de Inglés Básico A2: Conjunciones y Superlativos](ingles_a2_conjunciones_y_superlativos.md)
-  - [Curso de Inglés Básico A2: Actividad Física y Partes del Cuerpo**](ingles_a2_actividades_fisicas_y_partes_cuerpo.md)
+  - [Taller de Inglés Básico sobre las Partes del Cuerpo](ingles_a2_partes_cuerpo.md)
   - [Curso de Inglés Básico A2: Experiencias Pasadas e Interaciones Futuras**](ingles_a2_experiencias_pasadas_y_interacciones_futuras.md)
   - [Curso de Inglés Básico A2: Descripciones y Comparativos**](ingles_a2_descipciones_y_comparativos.md)
   
