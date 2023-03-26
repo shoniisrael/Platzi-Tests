@@ -1,7 +1,9 @@
 # Platzi-tests
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+
 [![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 <br>Este repositorio no pretende darle todas las respuestas a las preguntas de examenes de certificación de [Platzi](https://platzi.com) , sino que es una guía de inicio para ayudarle a prepararse para el cuestionario de habilidades y saber qué esperar.
@@ -40,6 +42,8 @@ LISTA DE CURSOS
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
   - [Curso de Fundamentos de Angular](curso_de_fundamentos_de_angular.md)
+  - [Curso de Angular: Componentes y Servicios](curso_de_angular_componentes_y_servicios.md)
+  - [Curso de NPM: Gestión de Paquetes y Dependencias en JavaScript](Curso_de_NPM-Gestion_de_Paquetes_y_Dependencias_en_JavaScript.md)
 
   **BackEnd**
 
