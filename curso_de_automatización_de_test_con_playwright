@@ -1,0 +1,41 @@
+# Curso de Automatización de Test con Playwright
+
+## 1. Playwright es un fork de:
+
+    Puppeteer
+
+## 2.El comando para ejecutar tests modo headed es:
+
+    npx playwright test --headed
+
+## 3. El archivo de configuración de Playwright es:
+
+    playwright.config.ts
+
+## 4.Para seleccionar un botón en una aplicación web, con playwright, puedes usar la sintaxis: page.locator('button')
+
+    Verdadero
+
+## 5.Esta es la sintaxis usada para validar que un elemento existe y es visible en la aplicación web:
+
+    expect(locator).toBeVisible([options])
+
+## 6.Si quiero iniciar el debugger al correr mi test utilizo el comando: npx playwright test --debug
+
+    Verdadero
+
+## 7.El nombre del objeto disponible en las devtools cuando se ejecutan los test en modo debug es:
+
+    playwright
+
+## 8.Para mostrar en los API logs en una terminal bash puedo usar el comando: DEBUG=pw:api npx playwright test
+
+    Verdadero
+
+## 9.El comando para generar el archivo de tracing es:
+
+    npx playwright test --trace on
+
+## 10. Para abrir un archivo de tracing generado por playwright usa el comando:
+
+    npx playwright show-report NAMEOFTRACEFILE
