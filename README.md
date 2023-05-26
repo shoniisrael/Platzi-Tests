@@ -81,6 +81,7 @@ LISTA DE CURSOS
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
+  - [Curso de Python: PIP y Entornos Virtuales](curso_de_python-pip_y_entornos_virtuales.md)
   - [Curso de Excel Básico](curso_de_excel_basico.md)
   - [Curso de Introducción a Excel](int_excel.md)
   - [Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards](excel_intermedio_inf_analisis_dashboards.md)
