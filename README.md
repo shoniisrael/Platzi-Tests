@@ -17,7 +17,7 @@ LISTA DE CURSOS
   - [Curso de Computación Básica](computacion_basica.md)
   - [Curso Logica de Programación](curso_logica_de_programacion.md)
   - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md)
-  - [Curso de Programación Orientada a Objetos: POO](poo.md)
+  - [Curso de Programación Orientada a Objetos: POO](curso_de_programacion_orientada_a_objetos_poo.md)
   - [Curso Profesional de Git y GitHub](git.md)
   - [Fundamentos de Ingeniería de Software](fundamentos.md)
   - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
