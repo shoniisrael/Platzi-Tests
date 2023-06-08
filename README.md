@@ -115,6 +115,7 @@ LISTA DE CURSOS
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
   - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
+  - [Curso de Principios de Visualización de Datos para Business Intelligence](curso_de_principios_de_visualizacion_de_datos_para_business_intelligence.md)
   - [Curso Profesional de Scrum](curso_profesional_de_scrum.md)
 
 - ### CONTENIDO DIGITAL
