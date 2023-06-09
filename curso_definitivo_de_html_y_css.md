@@ -41,6 +41,7 @@
     Inline: muestra en la misma línea (respetando el flujo) todos los elementos y no acepta las propiedades width, height ni márgenes verticales. Block: muestra los elementos en líneas independientes y acepta las propiedades width, height y márgenes verticales.
 ## 20. ¿Al estar utilizando Display Flex, cómo puedo alinear de forma vertical a los elementos hijos?
     DESCARTAR ESTA OPICON >> flex-wrap: wrap;
+    ESTA ES LA CORRECTA >> align-items:center;
 ## 21. ¿Por qué es importante utilizar siempre medidas relativas en fuentes?
     Para que usuarios con problemas de visibilidad puedan incrementar el tamaño de fuente en caso de que lo necesiten.
 ## 22. ¿Para qué utilizamos la regla de box-sizing: border-box; en nuestros estilos?
