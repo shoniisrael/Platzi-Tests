@@ -13,8 +13,7 @@
 ## ¿El procesador solo puede interpretar
     Ceros y unos
 ## ¿Quality of Service es
-    (Descartar esta opcion) Como los usuarios perciben la calidad de servicio   del proveedor de telefonía
-    (Descartar esta opcion) Como los ISP priorizan el tráfico para darte un mejor servicio
+    Como los ISP reforman el tráfico para degradar ciertas conexiones
 ## ¿Un archivo de texto con la palabra "Platzi" debe pesar
     6 bytes
 ## ¿El número 27 representado en binario es
@@ -70,10 +69,18 @@ Es el software que permite al sistema operativo     interpretar las señales del
     DHCP
 ## Si compras una conexión de 100Mbps en teoria cuál es la máxima velocidad de descarga:
     12.5MB/s
-    
-
-
-
+## ¿Cuántos bits tiene un byte?
+    8
+## La velocidad de los procesadores se mide en:
+    Hertz
+## ¿Qué es un switch en una red?
+    El dispositivo que conecta múltiples dispositivos a la misma red
+## La velocidad de los procesadores se mide en:
+    Hertz
+## El tiempo que tarda un servidor en responder una petición se mide en:
+    Milisegundos
+## Cuando ves algo como: video/mp4 ¿Qué estás viendo?
+    Un MIME type, una definición de tipo de archivo
 
 ------
 
