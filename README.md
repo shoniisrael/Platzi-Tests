@@ -21,6 +21,7 @@ LISTA DE CURSOS
   - [Curso Profesional de Git y GitHub](git.md)
   - [Fundamentos de Ingeniería de Software](fundamentos.md)
   - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
+  - [Curso de Pensamiento Lógico: Algoritmos y Diagramas de Flujo](Curso_de_Pensamiento_Logico_Algoritmos_y_Diagramas_de_Flujo.md)
   - [API rest Course](api_rest_course.md)
 
   **FrontEnd**
