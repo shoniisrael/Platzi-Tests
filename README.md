@@ -138,9 +138,11 @@ LISTA DE CURSOS
 
 - ### STARTUPS
 
-- ### INGLES
+- # INGLES
 
-  **Beginner A1-A2**
+  ## Nivel Básico
+
+  _**Beginner A1-A2**_
   
   - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
   - [Curso de Inglés Básico A1: Tus Primeras Conversaciones]()
