@@ -170,13 +170,20 @@ LISTA DE CURSOS
   - [Curso de Inglés Básico A2: Experiencias Pasadas e Interaciones Futuras**](ingles_a2_experiencias_pasadas_y_interacciones_futuras.md)
   - [Curso de Inglés Básico A2: Descripciones y Comparativos**](ingles_a2_descipciones_y_comparativos.md)
   
+  _**Beginner Complementary**_
+  
+  - [Taller de Inglés Básico CA: ChatGPT](ingles_ca_chatgpt.md)
+  - [Curso de Inglés Básico CA: Vocabulario y Expresiones en Inglés](ingles_ca_vocabulario_expresiones.md)
+  - [Curso de Inglés Básico CA: Pronunciacion en Inglés](ingles_ca_pronunciacion.md)
+  - [Curso de Inglés Básico CA: Escritura en Inglés](ingles_ca_escritura.md)
+  - [Curso de Inglés Básico CA: Construcción de Oraciones en inglés](ingles_ca_construccion_oraciones.md)
+
   **Intermediate B1**
   
   - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
   - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
-
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_escritura.md)
   - [Curso de Inglés Intermedio: Escritura](ingles_intermedio_vocabulario.md)
   - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)   
