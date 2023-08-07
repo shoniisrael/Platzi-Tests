@@ -89,6 +89,9 @@
 
     Verdadero
 
+## En un sistema de ventas de autos ¿cuál de estas opciones describe mejor los objetos involucrados?
+    Auto, Vendedor, Cliente
+    
 ------
 
 Este proyecto sigue la especificación de [todos los contribuyentes](https://github.com/all-contributors/all-contributors) . ¡Contribuciones de cualquier tipo son bienvenidas!

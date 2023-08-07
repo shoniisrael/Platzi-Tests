@@ -17,7 +17,7 @@ LISTA DE CURSOS
   - [Curso de Computación Básica](computacion_basica.md)
   - [Curso Logica de Programación](curso_logica_de_programacion.md)
   - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md)
-  - [Curso de Programación Orientada a Objetos: POO](poo.md)
+  - [Curso de Programación Orientada a Objetos: POO](curso_de_programacion_orientada_a_objetos_poo.md)
   - [Curso Profesional de Git y GitHub](git.md)
   - [Fundamentos de Ingeniería de Software](fundamentos.md)
   - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
@@ -81,12 +81,14 @@ LISTA DE CURSOS
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
+  - [Curso de Python: PIP y Entornos Virtuales](curso_de_python-pip_y_entornos_virtuales.md)
   - [Curso de Excel Básico](curso_de_excel_basico.md)
   - [Curso de Introducción a Excel](int_excel.md)
   - [Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards](excel_intermedio_inf_analisis_dashboards.md)
   - [Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](etica_manejo_datos_data_science_ia.md)
   - [Curso Básico de Visualización de Datos con Matplotlib y Seaborn](basic_dataviz_matplotlib_seaborn.md)
   - [Curso Básico de Manipulación y Transformación de Datos con Pandas y NumPy](basic_data_transform_pandas&numpy.md)
+  - [Curso de Funciones Matemáticas para Data Science e Inteligencia Artificial](funciones_matematicas_para_ds_ia.md)
 
   **Criptomonedas**
 
@@ -114,6 +116,7 @@ LISTA DE CURSOS
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
   - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
+  - [Curso de Principios de Visualización de Datos para Business Intelligence](curso_de_principios_de_visualizacion_de_datos_para_business_intelligence.md)
   - [Curso Profesional de Scrum](curso_profesional_de_scrum.md)
 
 - ### CONTENIDO DIGITAL
