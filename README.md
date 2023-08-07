@@ -161,8 +161,9 @@ LISTA DE CURSOS
   - [Taller de Inglés Básico A2: Elementos de la Casa](taller_ingles_a2_casa.md)
   - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
   - [Curso de Inglés Básico A2: Adverbios y Sustantivos](ingles_a2_adverbios_y_sustantivos.md)
-  - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
+  - [Taller de Inglés Básico A2: Vocabulario de Cocina](ingles_a2_cocina.md)
   - [Curso de Inglés Básico A2: Cantidades y Gerundios](ingles_a2_cantidades_y_gerundios.md)
+  - ~~[Curso de Inglés Básico A2: Viajes de Turismo]()~~
   - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo](ingles_a2_proposiciones_y_presente_continuo.md)
   - [Curso de Inglés Básico A2: Conjunciones y Superlativos](ingles_a2_conjunciones_y_superlativos.md)
   - [Taller de Inglés Básico sobre las Partes del Cuerpo](ingles_a2_partes_cuerpo.md)
