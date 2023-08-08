@@ -158,7 +158,7 @@ LISTA DE CURSOS
   
   - ~~[Curso de Inglés Básico A2: Preguntas y Respuestas (viejas)](ingles_a2_preguntas_y_respuestas.md)~~
   - [Curso de Inglés Básico A2: Preguntas y Respuestas](ingles_a2_preguntas_y_respuestas_v2.md)
-  - [Taller de Inglés Básico A2: Elementos de la Casa](taller_ingles_a2_casa.md)
+  - [Taller de Inglés Básico A2: Elementos de la Casa](ingles_a2_elementos_casa.md)
   - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
   - [Curso de Inglés Básico A2: Adverbios y Sustantivos](ingles_a2_adverbios_y_sustantivos.md)
   - [Taller de Inglés Básico A2: Vocabulario de Cocina](ingles_a2_cocina.md)
