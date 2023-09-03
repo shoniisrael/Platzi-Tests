@@ -7,6 +7,7 @@
     There were two bedrooms, a kitchen, a living room, and two bathrooms.
 
 ## 3. How can you respond to this? I didn’t do that, dad.
+    Yes, I did.
 
 ## 4. Mention three things you did in your childhood house
     I swept the floor, did the dishes, and played board games.
@@ -45,6 +46,7 @@
     It's about one hour by bus.
 
 ## 16.  What are these things in your living room, and where are they?
+    This is my sofa, there is a table next to it, and a picture is behind it.
 
 ## 17. Where is your desk?
     It is next to the sofa, and behind the table.

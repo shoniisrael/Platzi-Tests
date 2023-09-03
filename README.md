@@ -18,7 +18,7 @@ LISTA DE CURSOS
   - [Curso Logica de Programación](curso_logica_de_programacion.md)
   - [Curso de Introducción a la Web: Historia y Funcionamiento de Internet](curso_de_introduccion_a_la_web.md)
   - [Curso de Programación Orientada a Objetos: POO](poo.md)
-  - [Curso Profesional de Git y GitHub](git.md)
+  - [Curso Profesional de Git y GitHub](git_y_github.md)
   - [Fundamentos de Ingeniería de Software](fundamentos.md)
   - [Curso Básico de Algoritmos y Pensamiento Lógico](curso_basico_de_algoritmos_y_pensamiento_logico.md)
   - [API rest Course](api_rest_course.md)
@@ -51,6 +51,7 @@ LISTA DE CURSOS
 
   **Backend, Arquitectura y Bases de Datos**
 
+  - [Curso de Administración de Servidores Linux](administracion_servidores_linux.md)
   - [Audiocurso de Fundamentos de Arquitectura de Alta Concurrencia](fundamentos_alta_concurrencia.md)
   - [Curso de Introducción a la Terminal y Línea de Comandos](int_terminal_commandline.md)
   - [Curso de Introducción a la Nube con Azure](int_nube_azure.md)
@@ -60,15 +61,22 @@ LISTA DE CURSOS
 
   - [Curso de Fundamentos de Bases de Datos](fundamentos_bases_datos.md)
 
-  **Matemáticas**
+  **Aritmetica**
 
   - [Curso de Fundamentos de Matemáticas](fundamentos_de_matemáticas.md)
-  - [Curso de lenguaje y notación matematica](curso_de_lenguaje_y_notacion_matematica.md)
-  - [Curso de Álgebra](curso_de_algebra.md)
+  - [Curso de Álgebra](curso_algebra.md)
+  - [Curso de Lenguaje y Notación Matemática](curso_lenguaje_notacion_matematica.md)
 
   **Cloud**
 
   - [Curso de Introducción a Google Cloud Platform](introduccion_google_cloud.md)
+  - [Certificación Cloud Digital Leader](Certificacion_Cloud_Digital_Leader.md)
+  - [Curso de Introducción a la Nube con Azure](introduccion_nube_azure.md)
+  - [Certificación Azure AZ-900](certificacion_azure_az900.md)
+  - [Curso Profesional de DevOps](curso_profesional_devops.md)
+  - [Fundamentos de IBM Cloud](fundamentos_ibm_cloud.md)
+  - [Curso de Docker](curso_docker.md)
+  - [Curso de Docker Swarm](curso_swarm.md)
 
   **Seguridad**
 
@@ -81,8 +89,6 @@ LISTA DE CURSOS
   - [Curso de Entorno de Trabajo para Ciencia de Datos con Jupyter Notebooks y Anaconda](entorno_de_trabajo_para_ciencia_de_datos_con_jupyter_notebooks_y_anaconda.md)
   - [Curso de Configuración Profesional de Entorno de Trabajo para Ciencia de Datos](curso_de_configuración_profesional_de_entorno_de_trabajo_para_ciencia_de_datos.md)
   - [Curso Básico de Python](curso_basico_de_python.md)
-  - [Curso de Excel Básico](curso_de_excel_basico.md)
-  - [Curso de Introducción a Excel](int_excel.md)
   - [Curso de Excel Intermedio: Análisis de Información y Creación de Dashboards](excel_intermedio_inf_analisis_dashboards.md)
   - [Curso de Ética y Manejo de Datos para Data Science e Inteligencia Artificial](etica_manejo_datos_data_science_ia.md)
   - [Curso Básico de Visualización de Datos con Matplotlib y Seaborn](basic_dataviz_matplotlib_seaborn.md)
@@ -111,6 +117,12 @@ LISTA DE CURSOS
 
 - ### NEGOCIOS Y EMPRENDIMIENTO
 
+  - [Curso de Introducción a Educación Financiera](curso_introduccion_educacion_financiera.md)
+  - [Curso de Introducción a Excel](curso_introduccion_excel.md)
+  - [Curso de Excel Básico](curso_de_excel_basico.md)
+  - [Curso de Finanzas Personales](curso_finanzas_personales.md)
+  - [Curso para Manejar tu Deuda](curso_manejar_deuda.md)
+  - [Curso de Presupuesto y Flujo de Caja](curso_presupuesto_flujo_caja.md)
   - [Curso Práctico de Análisis Técnico de Mercados Financieros](analisis_mercados.md)
   - [Curso para Empezar a Vender por Internet](curso_para_empezar_a_vender_por_internet.md)
   - [Curso de Business Intelligence: Utilidad y Áreas de Oportunidad](business_intelligence_utilidad_oportunidad.md)
@@ -126,22 +138,52 @@ LISTA DE CURSOS
 
 - ### STARTUPS
 
-- ### INGLES
-  - [Curso de Estrategias para aprender ingles](curso_de_estrategias_para_aprender_ingles.md)
-  - [Curso de Inglés Básico A1 para Principiantes](ingles_a1_principiantes.md)
-  - [Taller de Inglés básico A1: Elementos y Expresiones de Trabajo](taller_ingles_a1_trabajo.md)
-  - [Curso de Inglés A1 Presente Simple y Vocabulario Comun](curso_de_ingles_a1_presente_simple_y_vocabulario_comun.md)
-  - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](taller_ingles_a1_familia.md)
-  - [Taller de Inglés Básico A2: Describiendo mi Casa](taller_ingles_a2_casa.md)
-  - [Taller de Inglés Básico A2: Práctica en la Cocina](ingles_a2_cocina.md)
-  - [Curso de Inglés Básico: Vocabulario y Expresiones](curso_ingles_basico.md)
-  - [Curso de Inglés Básico: Pronunciación](ingles_basico_pronunciacion.md)
-  - [Audiocurso de Inglés para Viajes](audiocurso_ingles_viajes.md)
+- ## INGLES
+
+  ### Nivel Básico
+
+  _**Beginner A1**_
+  
+  - [Curso Gratis de Estrategias para aprender ingles](ingles_a1_estrategias_para_aprender.md)
+  - [Curso de Inglés Básico A1: Conversaciones Cortas y Habituales]()
+  - [Curso de Inglés Básico: para Descripciones Personales](ingles_a1_Descripciones_personales.md)
+  - ~~[Curso de Inglés Básico: Pronunciación](ingles_a1_pronunciacion.md)~~
+  - [Curso de Inglés Básico A1: para Principiantes](ingles_a1_principiantes.md)
+  - [Taller de Inglés Básico A1: Elementos y Expresiones de Trabajo](ingles_a1_elementos_y_expresiones_de_trabajo.md)
+  - [Curso de Inglés Básico A1: Presente Simple y Vocabulario Comun](ingles_a1_presente_simple_y_vocabulario_comun.md)
+  - [Taller de Inglés Básico A1: Descripción de los Miembros de la Familia](ingles_a1_miembros_familia.md)
+  - [Curso de Inglés Básico A1: Fechas, Horas y Expresiones Simples]()
+  
+  _**Beginner A2**_
+  
+  - ~~[Curso de Inglés Básico A2: Preguntas y Respuestas (viejas)](ingles_a2_preguntas_y_respuestas.md)~~
+  - [Curso de Inglés Básico A2: Preguntas y Respuestas](ingles_a2_preguntas_y_respuestas_v2.md)
+  - [Taller de Inglés Básico A2: Elementos de la Casa](ingles_a2_elementos_casa.md)
+  - [Curso de Inglés Básico A2: Articulos y Verbos Modales](ingles_a2_articulos_y_verbos_modales.md)
+  - [Curso de Inglés Básico A2: Adverbios y Sustantivos](ingles_a2_adverbios_y_sustantivos.md)
+  - [Taller de Inglés Básico A2: Vocabulario de Cocina](ingles_a2_cocina.md)
+  - [Curso de Inglés Básico A2: Cantidades y Gerundios](ingles_a2_cantidades_y_gerundios.md)
+  - [Curso de Inglés Básico A2: Viajes de Turismo]()
+  - [Curso de Inglés Básico A2: Conjunciones y Superlativos](ingles_a2_conjunciones_y_superlativos.md)
+  - [Curso de Inglés Básico A2: Preposiciones y Presente Continuo](ingles_a2_proposiciones_y_presente_continuo.md)
+  - [Taller de Inglés Básico sobre las Partes del Cuerpo](ingles_a2_partes_cuerpo.md)
+  - [Curso de Inglés Básico A2: Experiencias Pasadas e Interaciones Futuras**](ingles_a2_experiencias_pasadas_y_interacciones_futuras.md)
+  - [Curso de Inglés Básico A2: Descripciones y Comparativos**](ingles_a2_descipciones_y_comparativos.md)
+  
+  _**Beginner Complementary**_
+  
+  - [Taller de Inglés Básico CA: ChatGPT](ingles_ca_chatgpt.md)
+  - [Curso de Inglés Básico CA: Vocabulario y Expresiones en Inglés](ingles_ca_vocabulario_expresiones.md)
+  - [Curso de Inglés Básico CA: Pronunciacion en Inglés](ingles_ca_pronunciacion.md)
+  - [Curso de Inglés Básico CA: Escritura en Inglés](ingles_ca_escritura.md)
+  - [Curso de Inglés Básico CA: Construcción de Oraciones en inglés](ingles_ca_construccion_oraciones.md)
+
+  **Intermediate B1**
+  
   - [Curso de Inglés Intermedio B1 Palabras Interrogativas y Verdades Generales](ingles_b1_palabras_interrogativas.md)
   - [Curso de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](ingles_b1_verbos_causativos.md)
   - [Taller de Inglés Intermedio B1: Verbos Causativos y Voz Pasiva](taller_b1_verbos_causativos.md)
   - [Curso de Inglés Intermedio B1: Estructuras Paralelas y Preguntas Negativas](ingles_b1_estructuras_paralelas.md)
-
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_escritura.md)
   - [Curso de Inglés Intermedio: Escritura](ingles_intermedio_vocabulario.md)
   - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)   
