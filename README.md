@@ -41,6 +41,7 @@ LISTA DE CURSOS
   - [Curso de Next.js](nextjs.md)
   - [Curso de Tailwind CSS](tailwind.md)
   - [Curso de Svelte](svelte.md)
+  - [Curso de Clean Code y Buenas Prácticas con Javascript](curso_de_clean_code_y_buenas_practicas_con_javascript.md)
 
   **BackEnd**
 
@@ -144,8 +145,8 @@ LISTA DE CURSOS
 
   - [Curso de Inglés Intermedio: Vocabulario y Expresiones](ingles_intermedio_escritura.md)
   - [Curso de Inglés Intermedio: Escritura](ingles_intermedio_vocabulario.md)
-  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)   
-  - [Curso de Inglés Intermedio: Pronunciación](ingles_intermedio_pronunciacion.md)  
+  - [Curso de Inglés Práctico: Pronunciación](ingles_practico_pronunciacion.md)
+  - [Curso de Inglés Intermedio: Pronunciación](ingles_intermedio_pronunciacion.md)
   - [Curso de Inglés Intermedio para el Trabajo](ingles_intermedio_trabajo.md)
   - [Curso de Inglés Intermedio: Gramática](ingles_intermedio_gramatica.md)
   - [Curso de Inglés para Developers](ingles_developers.md)
